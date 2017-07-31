@@ -1,1 +1,1 @@
-jankeLearning.github.io/pathbook
+[read the book](jankeLearning.github.io/pathbook)
