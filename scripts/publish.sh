@@ -3,7 +3,7 @@ gitbook install && gitbook build
 # checkout to the gh-pages branch
 git checkout gh-pages
 # pull the latest updates
-git pull origin gh-pages --rebase
+git pull janke gh-pages --rebase
 # copy the static site files into the current directory.
 cp -R _book/* .
 # remove 'node_modules' and '_book' directory
@@ -13,7 +13,6 @@ git clean -fx _book
 git add .
 # commit
 git commit -a -m "update path"
-# push to the origin
-git push origin gh-pages
+# push to the janke git push janke gh-pages
 # checkout to the master branch
 git checkout master
