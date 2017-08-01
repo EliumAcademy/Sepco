@@ -14,5 +14,6 @@ git add .
 # commit
 git commit -a -m "update path"
 # push to the janke git push janke gh-pages
+git push janke gh-pages
 # checkout to the master branch
 git checkout master
