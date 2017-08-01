@@ -1,9 +1,9 @@
-# install the plugins and build the static site
-gitbook install && gitbook build
 # checkout to the gh-pages branch
 git checkout gh-pages
 # pull the latest updates
 git pull janke gh-pages --rebase
+# install the plugins and build the static site
+gitbook install && gitbook build
 # copy the static site files into the current directory.
 cp -R _book/* .
 # remove 'node_modules' and '_book' directory
