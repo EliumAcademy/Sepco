@@ -23,3 +23,15 @@ git commit -m 'publishing'
 git push janke gh-pages
 # return to master
 git checkout master
+
+
+
+
+
+################################################
+#  this script requires a file structure like this:
+# 
+#	 ** a host directory, empty but for the cloned repo **
+# 	|
+# 	|- pathbook -> the cloned repo
+# 		|- the book md (when not on gh-pages)
