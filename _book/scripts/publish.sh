@@ -8,7 +8,9 @@ gitbook build
 cp -rf ./_book ../book-holder
 # commit recent build
 git add .
-git commit -m 'transfering'
+git commit -m 'publishing'
+# push newest source
+git push janke master
 # switch to gh-pages branch
 git checkout gh-pages
 # copy the new book in
