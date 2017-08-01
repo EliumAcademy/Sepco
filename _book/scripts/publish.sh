@@ -22,5 +22,4 @@
 
 git add .
 git commit -m 'publishing'
-cd _book
-rm -rf scripts
+cp -r ./_book ../book-holder
