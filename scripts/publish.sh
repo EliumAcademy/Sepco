@@ -15,7 +15,7 @@ git push janke master
 git checkout gh-pages
 # copy the new book in
 # f to overwrite last publication
-cp -rf ../book-holder/. ./
+cp -rf ../book-holder/. ./pathbook
 # commit changes
 git add .
 git commit -m 'publishing'
