@@ -1,1 +1,1 @@
-[read the book](https://jankeLearning.github.io/pathbook)
+welcome to this course.  follow it
