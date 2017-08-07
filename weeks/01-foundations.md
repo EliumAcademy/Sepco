@@ -3,7 +3,7 @@ Week theme:  common groundworks
   * documenting and testing   
   * cli - fs and running code  
   
-  
+  test
 projects:  
   * precourse  
   * week 1 exercises   
