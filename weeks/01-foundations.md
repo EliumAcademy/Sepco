@@ -18,7 +18,7 @@ lectures:  assume basic knowledge of javascript
   **1. Monday**  
     * welcome presentation 
     * how we'll do things  
-    * 1-1's  
+    * 1-1's    
     * [cli](https://github.com/jankeLearning/content-md/blob/master/tools/01-cli.md)  
     * [installations](https://github.com/jankeLearning/content-md/blob/master/tools/01-installations.md)   
     * [/node+express/01-node-1.md](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/01-node-1.md)   
