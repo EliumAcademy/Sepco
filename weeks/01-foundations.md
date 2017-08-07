@@ -24,13 +24,15 @@ lectures:  assume basic knowledge of javascript
     * /node+express/01-node-1.md  
     * /git-workflow/01-local.md  
     * /tools/01-linters.md  
+    * /js/01-js-101.md
   2. t  
     * /git-workflow/01-remote.md  
     * /js/01-functions.md  
     * /testing/01-unit-tests.md  
   3. w  
     * /git-workflow/01-repos.md  
-    * /js/01-objects-1.md  
+    * /js/01-objects-1.md   
+    * /js/01-tricky-things.mds
   4. t  
     * /git-workflow/01-gh-pages.md  
     * /js/01-scope-context.md  
