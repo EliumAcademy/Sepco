@@ -1,7 +1,7 @@
-week theme  
+**Week theme:**  
   * assorted advanced things  
   
-topics  
+**Topics**  
   * see schedule  
   
 schedule  
@@ -19,7 +19,7 @@ schedule
     * /dev-knowledge/09-opensource-contributing.md  
     * /js/09-dot-prototype.md  
   
-projects  
+**Projects**  
   * finish up old projects, group or/and individual  
   * adv project - need to design it  
     * lodash  

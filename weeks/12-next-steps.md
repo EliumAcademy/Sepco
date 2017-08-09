@@ -1,7 +1,7 @@
-week theme  
+**Week theme:**  
   * next steps, futur directions  
   
-topics  
+**Topics**  
   * react ecosystem  
   * specializations  
   * keeping motivated  
@@ -30,5 +30,5 @@ schedule
       * /tools/12-list-of-fancies.md  
       * /algorithms/12-resources-algorithms.mds  
   
-projects  
+**Projects**  
   * personal projects  

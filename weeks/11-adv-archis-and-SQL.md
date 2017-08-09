@@ -1,8 +1,8 @@
-week theme  
+**Week theme:**  
   * advanced design principles  
   * SQL/relational  
   
-topics  
+**Topics**  
   * see schedule  
   
 schedule - order?  
@@ -17,6 +17,6 @@ schedule - order?
   **4. Thursday**  
     * /databases/11-SQL-relational-2.md  
   
-projects  
+**Projects**  
   * personal projects  
 

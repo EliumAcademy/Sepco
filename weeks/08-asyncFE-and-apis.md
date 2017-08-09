@@ -1,7 +1,7 @@
-week theme  
+**Week theme:**  
   * async frontends, api backends  
   
-topics  
+**Topics**  
   * async JS  
   * api's  
   * algorithms  
@@ -22,7 +22,7 @@ schedule
     * /testing/08-api-testing.md  
     * /tools/08-postman-2.md  
   
-projects  
+**Projects**  
   * cleancalc 5  
   * tictactoe 5  
   * app of your choice  

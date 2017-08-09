@@ -1,7 +1,7 @@
-week theme:  
+**Week theme:**  
   * securing and scaling your application  
   
-topics  
+**Topics**  
   * cyber-security  
   * authentication  
   * secure deployment  
@@ -20,7 +20,7 @@ schedule
     * /npm-modules/07-passport-jwt.md  
     * some es6 tricks  
   
-projects  
+**Projects**  
   * authenticated app  
     * services architecture  
     * full repo  

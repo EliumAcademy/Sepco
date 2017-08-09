@@ -1,7 +1,7 @@
-week theme  
+**Week theme:**
   * persisting data, better app structures  
   
-topics  
+**Topics**  
   * mongoose  
   * reading codebase  
   * next-level app design  
@@ -25,7 +25,7 @@ schedule
     * /npm-modules/06-testing-frameworks.md  
     * /testing/06-testing-strategies.md  
   
-projects  
+**Projects**  
   * RESTFUL app of your choice  
     *  full architecture  
     * m-m data  
