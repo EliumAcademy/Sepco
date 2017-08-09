@@ -21,6 +21,7 @@ lectures:  assume basic knowledge of javascript
     * 1-1's   
     * /tools/01-cli.md  
     * /tools/installations.md  
+    * /tools/commandline.md
     * /node+express/01-node-1.md  
     * /git-workflow/01-local.md  
     * /tools/01-linters.md  
