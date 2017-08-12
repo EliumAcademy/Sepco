@@ -1,6 +1,7 @@
 # add, commit recent changes
 git add .
 git commit -m 'building'
+git checkout master
 # build new gitbook
 gitbook build
 # copy it out of the way for branch change
@@ -10,17 +11,17 @@ cp -rf ./_book ../book-holder
 git add .
 git commit -m 'publishing'
 # push newest source
-git push janke master
+git push origin master
 # switch to gh-pages branch
 git checkout gh-pages
 # copy the new book in
 # f to overwrite last publication
-cp -rf ../book-holder/. ./pathbook
+cp -rf ../book-holder/. ./
 # commit changes
 git add .
 git commit -m 'publishing'
 # publish changes
-git push janke gh-pages
+git push origin gh-pages
 # return to master
 git checkout master
 
