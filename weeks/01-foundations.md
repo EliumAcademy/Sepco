@@ -49,16 +49,4 @@
 
     a. understanding new material and studying
     b. approaching problems  
-<<<<<<< HEAD
-    c. creating solutions  
-=======
-    c. creating solutions  
 
-
-
-
-
-
-
-
->>>>>>> master
