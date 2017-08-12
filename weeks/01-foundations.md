@@ -23,7 +23,7 @@
 **1. Monday**  
   * welcome presentation 
   * how we'll do things  
-  * 1-1's    
+  * [1-1's](https://docs.google.com/presentation/d/1EBONRhhJ7CVMQhqa_qH9kulfuVQUYOkJPcRvMAIZFdo/edit#slide=id.g2231dabbc5_0_27)    
   * [Cli](https://github.com/jankeLearning/content-md/blob/master/tools/01-cli.md)  
   * [Installations](https://github.com/jankeLearning/content-md/blob/master/tools/01-installations.md)   
   * [Node-1](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/01-node-1.md)   
