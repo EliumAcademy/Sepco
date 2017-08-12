@@ -6,7 +6,7 @@ git checkout master
 gitbook build
 # copy it out of the way for branch change
 # f to overwirte last publication
-cp -rf ./_book ../book-holder
+cp -rf ./_book/. ../book-holder
 # commit recent build
 git add .
 git commit -m 'publishing'
