@@ -1,4 +1,4 @@
-* [Overview](README.md)  
+* [Overview](https://docs.google.com/presentation/d/1MvkxBL9zmRBGphGSuV9LtNPh-OKOfymg0pMVnSOfIYA/edit)  
 * [Part 1 - frontend, devving](phases/ph1-frontend-and-devving.md)
 	* [w1 - foundations](weeks/01-foundations.md)  
 	* [w2 - apps 101](weeks/02-apps-101.md)
