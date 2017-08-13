@@ -1,6 +1,8 @@
 # add, commit recent changes
 git add .
 git commit -m 'building'
+# switch to master, in case you weren't
+git checkout master
 # build new gitbook
 gitbook build
 # copy it out of the way for branch change
