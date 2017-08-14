@@ -46,4 +46,4 @@
 
 **Projects:**
   * complete final project from precourse  
-  * [cleancalc 0 and 1](https://github.com/jankeLearning/projects/blob/master/cleancalc/0-cleancalc.js)ankeLearning/projects/blob/master/cleancalc)  
+  * [cleancalc 0 and 1](https://github.com/jankeLearning/projects/blob/master/cleancalc/0-cleancalc.js)
