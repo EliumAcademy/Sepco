@@ -6,7 +6,7 @@
   * specializations  
   * keeping motivated  
   
-**1. Monday**  
+1. **Monday**  
   * react ecosystem  
     * websockets  
     * redux  
@@ -14,19 +14,19 @@
     * packaging  
     * ... ? 
 
-**2. Tuesday**  
+2. **Tuesday**  
   * other js ecosystems  
     * electron  
     * ... ?
 
-**3. Wednesday**  
+3. **Wednesday**  
   * staying active  
     * open source  
     * freelance  
     * entrepreneuring  
     * ... ?
 
-**4. Thursday**  
+4. **Thursday**  
   * sendoff resources  
     * lots of beer  
     * [/tools/12-list-of-fancies.md](https://github.com/jankeLearning/content-md/blob/master/tools/12-list-of-fancies.md) 

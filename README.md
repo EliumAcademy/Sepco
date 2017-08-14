@@ -1,1 +1,1 @@
-welcome to this course.  follow it
+this is the gitbook accompanying the September 2017 cohort of elium fullstack
