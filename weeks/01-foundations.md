@@ -30,7 +30,8 @@
 
 **3. Wednesday**  
   * [Repos](https://github.com/jankeLearning/content-md/blob/master/git-workflow/01-repos.md)   
-  * [Objects-1](https://github.com/jankeLearning/content-md/blob/master/js/01-objects-1.md)
+  * [Objects-1](https://github.com/jankeLearning/content-md/blob/master/js/01-objects-1.md)  
+  * [Writing specs](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/01-specs.md)
 
 **4. Thursday**
   * [Gh Pages](https://github.com/jankeLearning/content-md/blob/master/git-workflow/01-gh-pages.md)   
