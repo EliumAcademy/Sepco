@@ -20,6 +20,7 @@
 
 **4. Thursday**  
   * [Oepensource Contributing](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-opensource-contributing.md)  
+  *[Auto-Generate Documentation](https://github.com/jankeLearning/content-md/blob/master/tools/09-doc-generators.md)
   * [Dot Prototype](https://github.com/jankeLearning/content-md/blob/master/js/09-dot-prototype.md)  
   
 **Projects**  

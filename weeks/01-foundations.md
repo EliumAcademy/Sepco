@@ -10,12 +10,6 @@
   * solidify js basics
 
 
-**Projects:**
-  * precourse  
-  * week 1 exercises   
-  * cleancalc 1
-
-
 **Lectures:**
   assume basic knowledge of javascript  
 
@@ -28,7 +22,6 @@
   * [Installations](https://github.com/jankeLearning/content-md/blob/master/tools/01-installations.md)   
   * [Node-1](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/01-node-1.md)   
   * [Local](https://github.com/jankeLearning/content-md/blob/master/git-workflow/01-local.md)
-  * [Linters](https://github.com/jankeLearning/content-md/blob/master/tools/01-linters.md)
 
 **2. Tuesday**
   * [Remote](https://github.com/jankeLearning/content-md/blob/master/git-workflow/01-remote.md)
@@ -50,3 +43,7 @@
     a. understanding new material and studying
     b. approaching problems  
 
+
+**Projects:**
+  * complete final project from precourse  
+  * [cleancalc 0 and 1](https://github.com/jankeLearning/projects/blob/master/cleancalc/0-cleancalc.js)ankeLearning/projects/blob/master/cleancalc)  

@@ -27,8 +27,8 @@
   * [Stories to Sprints](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/03-stories-to-sprints.md)  
   
 **Projects**  
-  * binary search tree  
-  * callbacks series  
-  * book 1  
+  * [Data Structures](https://github.com/jankeLearning/projects/blob/master/03-data-structures)  
+  * [Callbacks and Data Modeling](https://github.com/jankeLearning/projects/blob/master/03-callbacks+dataModeling)  
+  * [Start *Book](https://github.com/jankeLearning/projects/blob/master/star-book)
 
   
