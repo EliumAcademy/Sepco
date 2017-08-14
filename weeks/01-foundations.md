@@ -33,7 +33,7 @@
 **2. Tuesday**
   * [Remote](https://github.com/jankeLearning/content-md/blob/master/git-workflow/01-remote.md)
   * [Functions](https://github.com/jankeLearning/content-md/blob/master/js/01-functions.md)   
-  * [Unit Tests](https://github.com/jankeLearning/content-md/blob/master/testing/01-unit-tests.md)
+  * [Testing 101](https://github.com/jankeLearning/content-md/blob/master/testing/01-testing-101.md)
 
 **3. Wednesday**  
   * [Repos](https://github.com/jankeLearning/content-md/blob/master/git-workflow/01-repos.md)   
