@@ -28,5 +28,4 @@
   * [Twitter app](https://github.com/jankeLearning/projects/blob/master/04-twitz)  
   * [Tictactoes 2](https://github.com/jankeLearning/projects/blob/master/tictactoes/2-tictapps)  
   * [Finish *Book](https://github.com/jankeLearning/projects/blob/master/star-book)
-  * [Build a collaborative repo](https://github.com/jankeLearning/projects/blob/master/04-colab-repos.md)
   
