@@ -25,7 +25,7 @@
 4. **Thursday**  
   * [Session](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/06-sessions.md)  
   * [Testing Frameworks](https://github.com/jankeLearning/content-md/blob/master/npm-modules/06-testing-frameworks.md)  
-  * [Testing Strategies](https://github.com/jankeLearning/content-md/blob/master/testing/06-testing-strategies.md)  
+  * [Testing Strategies](https://github.com/jankeLearning/content-md/blob/master/testing/06-testing-strategies.md)  - move to group projecting
   
 **Projects**  
   * RESTFUL app of your choice  
