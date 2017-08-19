@@ -38,11 +38,6 @@
   * [Scope Context](https://github.com/jankeLearning/content-md/blob/master/js/01-scope-context-1.md)   
   * [Portfolios](https://github.com/jankeLearning/content-md/blob/master/git-workflow/01-portfolios.md)
 
-5. **Friday**  
-  * [Special Friday](https://github.com/jankeLearning/content-md/tree/master/special-friday)  
-
-    a. understanding new material and studying
-    b. approaching problems  
 
 
 **Projects:**
