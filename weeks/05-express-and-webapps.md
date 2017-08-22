@@ -26,6 +26,7 @@
 
 3. **Wednesday**  
   * [EJS](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-ejs.md)
+  * [Stories to Sprints](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/03-stories-to-sprints.md)  <!-- to accompany crud buildup -->
 
 4. **Thursday**  
   * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  

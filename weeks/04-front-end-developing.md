@@ -2,7 +2,6 @@
   * better apps and real devving  
   
 **Topics**  
-  * github collaboration  
   * advanced front-end apps   
   * JS features  
   

@@ -16,4 +16,4 @@
 	* [w10 - REACT](weeks/10-react.md)
 	* [w11 - SQL, advanced architectures](weeks/11-adv-archis-and-SQL.md)
 	* [w12 - next steps](weeks/12-next-steps.md)
-* [Bye](https://www.badgerbadgerbadger.com)
+* [Next Steps](https://www.badgerbadgerbadger.com)

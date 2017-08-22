@@ -1,10 +1,7 @@
-part 3 will take looks at next-step skills
-	-advanced libraries and paradigms
-	-intro to react
-	-advanced backend architecture
-	-next step directions
+# Chapter  -  Team Development and N.L.S.
+The third part of the course will have two focuses in parallel:
+* _Group Development_ - Over the course of 3-4 weeks practice planning, developing, testing, deploying, and maintaining a webapp in a small team.  You will explore modern management and testing paradigms.  You will also learn to use GitHub's collaboration features to coordinate your efforts, host documentation, and publicise your project.
+* _N.L.S._ - Explore a variety of advanced development tools and concepts including REACT, immutable data flow, advanced architectures, deployment tools, relational databases, and more.  (see below)
 
-in this section we will introduce you to a variety of tools. 
-learn now what intersts you now, learn later what interests you later.  
-
-this phase is designed to give you tastes of the wider world while giving you a chance to finish your final projects and solidify your fundamental
+Topics covered:
+* do this list
