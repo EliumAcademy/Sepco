@@ -1,12 +1,13 @@
-**Week theme:**  
-  * better JS and algorithms  
+## **Week theme: Next level JS and algorithms  **
 
 
-**Topics:**  
-  * algorithms   
-  * async  
-  * data modeling   
-  * OOP  
+**Learning Objectives:**  
+  * What are algorithms?  
+  * What is inheritance, how do classes do it?  
+  * Recursion  
+  * Asynchronicity  
+  * How to model with inheritance  
+  * What are data structures?  
     
 
 1. **Monday**   

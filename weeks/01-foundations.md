@@ -1,17 +1,15 @@
-**Week theme:  common groundworks**  
-  * git/hub practices  
-  * documenting and testing   
-  * cli - fs and running code  
+## **Week theme:  common groundworks**  
       
   
 **Week learning objects:**  
-  * create solid repos - [my first repo](https://github.com/colevandersWands/my-first-repo)  
-  * plan, test, document your exercises  
-  * solidify js basics
+  * Create comprehensive GitHub repositories   
+  * plan, test, document your exercises    
+  * Get to know your classmates and teachers  
+  * Set up your machines  
+  * Familiarity with basic git workflow  
 
 
 **Lectures:**
-  assume basic knowledge of javascript  
 
 
 1. **Monday**  
