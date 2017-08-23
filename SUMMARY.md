@@ -1,5 +1,5 @@
 * [Welcome to Elium](top_stuff/welcome.md)  
-* [Academic expectations](top_stuff/academic_expectations.md)  
+* [What to expect](top_stuff/what-to-expect.md)  
 * [Part 1 - frontend, devving](phases/ph1-frontend-and-devving.md)
 	* [w1 - foundations](weeks/01-foundations.md)  
 	* [w2 - apps 101](weeks/02-apps-101.md)

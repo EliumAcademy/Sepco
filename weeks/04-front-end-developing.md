@@ -14,6 +14,7 @@
   * [Module Dot Export](https://github.com/jankeLearning/content-md/blob/master/js/04-module-dot-export.md)
   * [Building](https://github.com/jankeLearning/content-md/blob/master/tools/04-packaging.md)  
   * [Npm](https://github.com/jankeLearning/content-md/blob/master/tools/04-npm.md)  
+  * [Axios](https://github.com/jankeLearning/content-md/blob/master/npm-modules/04-axios.md) 
 
 2. **Tuesday**  
   * [DOM-2](https://github.com/jankeLearning/content-md/blob/master/frontend/04-DOM-2.md)  
