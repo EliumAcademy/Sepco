@@ -1,6 +1,4 @@
-This repository is designed to be your principle study resource while at Elium Academy.  
-  
-You are currently viewing the source markdown for the gitbook curriculum.  
+This repository is designed to be your principle study resource while at Elium Academy. 
 
 [gitbook](https://eliumacademy.github.io/Sepco/).  The gitbook is meant to guide you through the course, enabling you to know what's coming and to easily find review material by day.  
   
