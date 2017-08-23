@@ -30,9 +30,10 @@ git checkout master
 
 
 ################################################
-#  this script requires a file structure like this:
+#  Recommended file structure for using this script
 # 
-#	 ** a host directory, empty but for the cloned repo **
+#	| ## documents, desktop, whatevs ##
 # 	|
-# 	|- pathbook -> the cloned repo
-# 		|- the book md (when not on gh-pages)
+# 	|- gitbooking ## -> contains only these two folders, ever
+# 		|- gitbook ## -> SUMMARY, README, markdowns, config, ...
+#		|- book-holder ## -> to stash built gitbook while changing branches
