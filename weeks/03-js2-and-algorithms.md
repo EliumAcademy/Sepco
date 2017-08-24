@@ -13,6 +13,7 @@
 1. **Monday**   
   * [Oop-2 Classes](https://github.com/jankeLearning/content-md/blob/master/app-design/03-oop-2-classes.md)  
   * [Inheritance](https://github.com/jankeLearning/content-md/blob/master/js/03-inheritance.md)
+  * [Abstractions]()
 
 2. **Tuesday**  
   * [Algorithms-101](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-algorithms-101.md)  
