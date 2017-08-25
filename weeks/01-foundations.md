@@ -9,7 +9,7 @@
   * Familiarity with basic git workflow  
 
 
-**Lectures:**
+**Lectures:** it ll work
 
 
 1. **Monday**  

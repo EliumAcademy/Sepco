@@ -9,11 +9,7 @@
   * Familiarity with basic git workflow  
 
 
-<<<<<<< HEAD
-**Lectures:** hellooo
-=======
-**Lectures:** <hellooo
->>>>>>> 6110e66399a06e771646c0e636530fbc31da1d11
+**Lectures:** it ll work
 
 
 1. **Monday**  
