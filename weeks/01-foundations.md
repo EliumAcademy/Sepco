@@ -1,3 +1,16 @@
+
+<style>
+
+.burcu{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 50px 15px 20px;
+}
+
+</style>
+
+<h3 class="burcu">Week theme:  common groundworks</h3>
+
 ### Week theme:  common groundworks
 
 
