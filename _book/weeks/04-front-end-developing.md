@@ -23,10 +23,8 @@
 **Wednesday**  
   * No lecture - individual catch-up day 
 
-
 **Thursday**  
-  * No new content - individual catch-up day 
-  * [EXPRESS IS COMING](dfasdfsd)
+  * No lecture - individual catch-up day 
   
 **Projects**  
   * [Twitter app](https://github.com/jankeLearning/projects/blob/master/04-twitz)  
