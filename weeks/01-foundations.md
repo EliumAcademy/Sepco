@@ -2,7 +2,7 @@
 <style>
 
 .burcu{
-    background-color: #4CAF50;
+    background-color: #333333;
     color: white;
     padding: 10px 50px 15px 20px;
 }
