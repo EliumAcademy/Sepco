@@ -29,8 +29,7 @@
     * full repo  
     * full frontend  
     * deployed demo  
-    * sessions auth  
-    * group project part 2 - voluntary  
+    * sessions auth   
 
 
    

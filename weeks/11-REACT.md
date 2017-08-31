@@ -18,5 +18,7 @@
 **Thursday**  
   
 **Projects**  
-  * a react practice project - half-time  
-  * personal projects - react or not  
+  * a react practice project 
+  * personal project
+  * group project 
+

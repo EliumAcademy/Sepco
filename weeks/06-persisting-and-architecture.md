@@ -34,6 +34,4 @@
     * finished frontend  
     * finished repo  
     * deployed demo  
-    * group project part 1 - voluntary  
-  * [Build a collaborative repo](https://github.com/jankeLearning/projects/blob/master/06-group-project.md)
 

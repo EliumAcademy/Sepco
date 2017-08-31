@@ -1,10 +1,6 @@
-**Week theme:**  
-  * assorted advanced things  
-  
-**Topics**  
-  * see schedule  
-  
-  
+**Topics**
+  * advanced libraries and techniques you'll need for react  
+
 **Monday**  
   * [ES6](https://github.com/jankeLearning/content-md/blob/master/js/09-es6.md)  
   * [Local Moduling](https://github.com/jankeLearning/content-md/blob/master/npm-modules/09-local-moduling.md)
@@ -22,9 +18,10 @@
   * [Oepensource Contributing](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-opensource-contributing.md)  
   *[Auto-Generate Documentation](https://github.com/jankeLearning/content-md/blob/master/tools/09-doc-generators.md)
   * [Dot Prototype](https://github.com/jankeLearning/content-md/blob/master/js/09-dot-prototype.md)  
-  
-**Projects**  
-  * finish up old projects, group or/and individual  
+
+**Projects**
+  * Continue personal project
+  * Continue group project
   * adv project - need to design it  
     * lodash  
     * es6 features  
@@ -33,4 +30,6 @@
     * your backend or public api  
     * local modules  
     * **just a toy to use these things**
+
+
 
