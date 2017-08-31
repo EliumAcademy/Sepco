@@ -1,5 +1,8 @@
-**Topics**
+**Week Theme**
   * advanced libraries and techniques you'll need for react  
+  
+**Topics**  
+  * read the lecture titles  
 
 **Monday**  
   * [ES6](https://github.com/jankeLearning/content-md/blob/master/js/09-es6.md)  
@@ -16,7 +19,7 @@
 
 **Thursday**  
   * [Oepensource Contributing](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-opensource-contributing.md)  
-  *[Auto-Generate Documentation](https://github.com/jankeLearning/content-md/blob/master/tools/09-doc-generators.md)
+  * [Auto-Generate Documentation](https://github.com/jankeLearning/content-md/blob/master/tools/09-doc-generators.md)
   * [Dot Prototype](https://github.com/jankeLearning/content-md/blob/master/js/09-dot-prototype.md)  
 
 **Projects**
