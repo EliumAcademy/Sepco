@@ -3,11 +3,25 @@
   
 **Topics**  
   * Agile, Scrum 
-  * Documenting large projects
-  * GitHub for project management
+  * project management
+  * planning, documenting large projects
   * TDD, BDD
   
-  
+All lectures in no order, to be sorted:
+* juan there every day
+* scrum workshop
+* github projects
+* github issues, pull requests, gists
+* github wikis
+* docs hosting - list of options
+* TDD
+* BDD
+* jasmine
+* agile development
+* daily group project meetings
+* 1-1 with each student to plan final project
+* more?
+    
 **Monday**  
 
 

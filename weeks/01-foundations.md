@@ -56,3 +56,6 @@
   * Begin your [GH portfolio](https://github.com/jankeLearning/projects/blob/master/01-github-portfolio)  
   * [cleancalc 0-2](https://github.com/jankeLearning/projects/blob/master/cleancalc/)
 
+**Assessment**  
+  * [A google form](https://docs.google.com/forms/d/e/1FAIpQLSdSjyLSrXFOeo1X7E5qS7Hpb8D_2RAwGtPEs9rW5UrCmfTCbw/viewform?usp=sf_link)
+
