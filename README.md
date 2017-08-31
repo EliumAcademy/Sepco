@@ -6,6 +6,6 @@ There are several components to the curriculum:
 * A [wiki](https://github.com/EliumAcademy/Sepco/wiki) for you, the students.  We have gotten a little start on each page, the rest is in your hands. Use this wiki to collaboratively build a study guide to accompany this course.
 * [JankeLearning](https://github.com/jankeLearning). This Github organization hosts all of our programming content - markdown lessons, code to study, and projects.
 * Google Drive folder with all of the business content.  
-* The [source code](https://github.com/EliumAcademy/Sepco/tree/master) for the gitbook and this readme. 
+* The [markdown source code](https://github.com/EliumAcademy/Sepco/tree/master) for the gitbook and this readme. 
  
 Ideas for new lessons?  Projects? Resources?  Let us know with an issue, pull request, or post in the wiki!
