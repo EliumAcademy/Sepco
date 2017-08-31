@@ -18,7 +18,8 @@
 
 **Tuesday**  
   * [DOM-2](https://github.com/jankeLearning/content-md/blob/master/frontend/04-DOM-2.md)  
-  * [Sh Scripts](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-sh-scripts.md)
+  * [Sh Scripts](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-sh-scripts.md)  
+  * [Event Driven Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/04-event-driven-programming.md)
 
 **Wednesday**  
   * No lecture - individual catch-up day 
