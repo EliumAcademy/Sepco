@@ -21,7 +21,6 @@ cp -rf ../book-holder/. ./
 git add .
 git commit -m 'publishing'
 # publish changes
-git pull origin gh-pages
 git push origin gh-pages
 # return to master
 git checkout master
