@@ -1,4 +1,4 @@
-Hi
+	Hi
 
 This is the main curriculum repository for the Fullstack September Cohort.  
 There are several components to the curriculum:

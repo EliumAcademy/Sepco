@@ -12,7 +12,7 @@
   * [Async-2](https://github.com/jankeLearning/content-md/blob/master/js/04-async-2.md)  
   * [Node-2](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/04-node-2.md)  
   * [Module Dot Export](https://github.com/jankeLearning/content-md/blob/master/js/04-module-dot-export.md)
-  * [Building](https://github.com/jankeLearning/content-md/blob/master/tools/04-packaging.md)  
+  * [Building](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-packaging.md)  
   * [Npm](https://github.com/jankeLearning/content-md/blob/master/tools/04-npm.md)  
   * [Axios](https://github.com/jankeLearning/content-md/blob/master/npm-modules/04-axios.md) 
 
@@ -26,10 +26,10 @@
 
 **Thursday**  
   * No new content - individual catch-up day 
-  * [EXPRESS IS COMING](dfasdfsd)
+  * [EXPRESS IS COMING](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/04-express-is-coming.md)
   
 **Projects**  
-  * [Twitter app](https://github.com/jankeLearning/projects/blob/master/04-twitz)  
+  * [Be YouTube](https://github.com/jankeLearning/projects/tree/master/04-be-you-tube)  
   * [Tictactoes 2](https://github.com/jankeLearning/projects/blob/master/tictactoes/2-tictapps)  
   * [Finish *Book](https://github.com/jankeLearning/projects/blob/master/star-book)
   
