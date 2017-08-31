@@ -11,7 +11,7 @@ cp -rf ./_book/. ../book-holder/
 git add .
 git commit -m 'publishing'
 # push newest source
-git push origin master
+# git push origin master
 # switch to gh-pages branch
 git checkout gh-pages
 # copy the new book in
