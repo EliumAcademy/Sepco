@@ -6,12 +6,12 @@ git checkout master
 gitbook build
 # copy it out of the way for branch change
 # f to overwirte last publication
-cp -rf ./_book ../book-holder
+cp -rf ./_book/. ../book-holder/ 
 # commit recent build
 git add .
 git commit -m 'publishing'
 # push newest source
-git push origin master
+# git push origin master
 # switch to gh-pages branch
 git checkout gh-pages
 # copy the new book in
@@ -30,9 +30,10 @@ git checkout master
 
 
 ################################################
-#  this script requires a file structure like this:
+#  Recommended file structure for using this script
 # 
-#	 ** a host directory, empty but for the cloned repo **
+#	| ## documents, desktop, whatevs ##
 # 	|
-# 	|- pathbook -> the cloned repo
-# 		|- the book md (when not on gh-pages)
+# 	|- gitbooking ## -> contains only these two folders, ever
+# 		|- gitbook ## -> SUMMARY, README, markdowns, config, ...
+#		|- book-holder ## -> to stash built gitbook while changing branches
