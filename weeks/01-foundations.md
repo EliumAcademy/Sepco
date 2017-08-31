@@ -35,9 +35,10 @@
   * [Git and Github](https://github.com/jankeLearning/content-md/blob/master/git/01-what-is-git-and-hub.md)  
 
 **Tuesday**
+  * [Procedural Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/01-procedural-programming.md)  
   * [Git](https://github.com/jankeLearning/content-md/blob/master/git/01-git.md)
   * [Functions](https://github.com/jankeLearning/content-md/blob/master/js/01-functions.md)   
-  * [English to JS](https://github.com/jankeLearning/content-code/tree/master/Week%2001/english2js)
+  * [English to JS](https://github.com/jankeLearning/content-code/blob/master/Week%2001/english2js/principles)
 
 **Wednesday**  
   * [Github repos](https://github.com/jankeLearning/content-md/blob/master/github/01-repos-1.md)   

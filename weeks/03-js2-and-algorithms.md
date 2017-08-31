@@ -28,7 +28,7 @@
   
 **Projects**  
   * [Data Structures](https://github.com/jankeLearning/projects/blob/master/03-data-structures)  
-  * [Callbacks and Data Modeling](https://github.com/jankeLearning/projects/blob/master/03-callbacks+dataModeling)  
+  * [Callbacks and Data Modeling](https://github.com/jankeLearning/projects/tree/master/03-callbacks%2Bdata_models)  
   * [Start *Book](https://github.com/jankeLearning/projects/blob/master/star-book)
 
   
