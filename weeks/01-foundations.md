@@ -42,7 +42,7 @@
 
 **Wednesday**  
   * [Github repos](https://github.com/jankeLearning/content-md/blob/master/github/01-repos-1.md)   
-  * [Sharing code with Gists](https://github.com/jankeLearning/content-md/blob/master/github/01-gists.md)
+  * [Gists, Issues, Pull Requests](https://github.com/jankeLearning/content-md/blob/master/github/01-g-i-p.md)
   * [Objects-1](https://github.com/jankeLearning/content-md/blob/master/js/01-objects-1.md)  
   * [Writing specs](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/01-specs.md)
 
