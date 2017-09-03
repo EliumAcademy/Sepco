@@ -22,6 +22,12 @@ All lectures in no order, to be sorted:
 * 1-1 with each student to plan final project
 * more?
     
+
+  * [Testing Frameworks](https://github.com/jankeLearning/content-md/blob/master/npm-modules/09-testing-frameworks.md)  
+  * [Testing Strategies](https://github.com/jankeLearning/content-md/blob/master/testing/09-testing-strategies.md)  - move to group projecting
+
+  * [Stories to Sprints](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-stories-to-sprints.md) 
+
 **Monday**  
 
 
