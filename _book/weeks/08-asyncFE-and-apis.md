@@ -29,3 +29,4 @@
   * cleancalc 5  
   * tictactoe 5  
   * app of your choice  
+  * group project part 3 - voluntary  

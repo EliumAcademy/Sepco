@@ -25,7 +25,8 @@
   * [RESTFUL Network Design](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-RESTFUL-network-design.md)
 
 **Wednesday**  
-  * [EJS](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-ejs.md) 
+  * [EJS](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-ejs.md)
+  * [Stories to Sprints](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/03-stories-to-sprints.md)  <!-- to accompany crud buildup -->
 
 **Thursday**  
   * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
