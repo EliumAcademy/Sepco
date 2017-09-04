@@ -22,7 +22,6 @@
 
 **Monday**   
   * [Oop-2](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-oop-2.md)  
-  * [Classes](https://github.com/jankeLearning/content-code/tree/master/Week%2003/classes)
   * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md)
 
 **Tuesday**  

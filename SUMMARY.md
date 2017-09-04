@@ -14,6 +14,6 @@
 	* [w10 - NLS](weeks/10-N-L-S.md)
 	* [w11 - REACT](weeks/11-REACT.md)
 	* [w12 - SQL, Next Steps](weeks/12-SQL-next-steps.md)
-	* [Growth Hacking](weeks/Growth-Hacking.md)
-	* [Mentoring](weeks/Mentoring.md)
+* [Growth Hacking](weeks/Growth-Hacking.md)
+* [Mentoring](weeks/Mentoring.md)
 * [Sepco Wiki](https://github.com/EliumAcademy/Sepco/wiki)
