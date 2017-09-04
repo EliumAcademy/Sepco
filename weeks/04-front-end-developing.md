@@ -1,4 +1,14 @@
-## **Week theme: Better Apps and Real Devving  **
+<style>
+
+.weektheme{
+    background-color: #404040;
+    color: white;
+    padding: 10px 20px 15px 20px;
+}
+
+</style>
+
+<h4 class="weektheme">Week Theme: Apps = Better Apps and Real Devving</h4>
   
 **Learning Objectives**  
   * Individual catch up before moving on to backends  

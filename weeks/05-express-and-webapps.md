@@ -1,10 +1,14 @@
-<style> p {
-    background-color: #EBEDEF;
+<style>
+
+.weektheme{
+    background-color: #404040;
+    color: white;
+    padding: 10px 20px 15px 20px;
 }
+
 </style>
 
-**Week theme:**
-  * RESTful Web Apps, Learning Node  
+<h4 class="weektheme">Week Theme: Apps = RESTful Web Apps, Learning Node</h4>  
   
 **Topics**  
   * The internet  
@@ -31,8 +35,8 @@
   * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
   
 **Projects**  
-  * museum static, fs  
-  * cleancalc 3, 4  
-  * tictactoe 3, 4  
-  * book express app
+  * Museum Static, fs  
+  * Cleancalc 3, 4  
+  * Tictactoe 3, 4  
+  * Book Express App
   

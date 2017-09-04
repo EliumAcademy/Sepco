@@ -13,7 +13,7 @@
 
 **Tuesday**  
   * [Services](https://github.com/jankeLearning/content-md/blob/master/app-design/07-services.md)  
-  * [/npm-modules/07-passport-local.md](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-local.md)
+  * [Npm Modules/07-passport-local.md](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-local.md)
 
 **Wednesday**  
   * [Deployment-2](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-deployment-2.md)  

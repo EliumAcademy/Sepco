@@ -1,7 +1,15 @@
-# P2P MENTORING ON YOUR IDEA (optional)
+<style>
 
+.weektheme{
+    background-color: #404040;
+    color: white;
+    padding: 10px 20px 15px 20px;
+}
 
-### First step, book a meeting with me
+</style>
+
+<h4 class="weektheme"><b>Here you can find the entrepreneurship and Growth hacking session</b></h4>
+
 
 
   * [Introduction to growth hacking and agile management](https://docs.google.com/presentation/d/1SMg8tiL04ssoospQdUu5Zd1ghIgPFqdpglqzjVmrdnY/pub?start=false&loop=false&delayms=3000) 

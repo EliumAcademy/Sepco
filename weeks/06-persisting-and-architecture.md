@@ -1,5 +1,15 @@
-**Week theme:**
-  * Persisting Data, Better App Structures  
+
+<style>
+
+.weektheme{
+    background-color: #404040;
+    color: white;
+    padding: 10px 20px 15px 20px;
+}
+
+</style>
+
+<h4 class="weektheme">Week Theme: Persisting Data, Better App Structures</h4> 
   
 **Topics**  
   * Mongoose  
@@ -27,9 +37,9 @@
   
 **Projects**  
   * RESTFUL app of your choice  
-    *  full architecture  
-    * m-m data  
-    * finished frontend  
-    * finished repo  
-    * deployed demo  
+    * Full Architecture  
+    * M-M Data  
+    * Finished Frontend  
+    * Finished Repo  
+    * Deployed Demo  
 
