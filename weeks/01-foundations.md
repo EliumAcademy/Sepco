@@ -36,10 +36,11 @@
   * [Procedural Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/01-procedural-programming.md)  
   * [Git](https://github.com/jankeLearning/content-md/blob/master/git/01-git.md)
   * [Functions](https://github.com/jankeLearning/content-md/blob/master/js/01-functions.md)   
-  * [English to JS](https://github.com/jankeLearning/content-code/blob/master/Week%2001/english2js/principles)
+  * [English to JS](https://github.com/jankeLearning/content-code/blob/master/Week%2001/english2js/)
 
 **Wednesday**  
   * [Github repos](https://github.com/jankeLearning/content-md/blob/master/github/01-repos-1.md)   
+  * [Gists, Issues, Pull Requests](https://github.com/jankeLearning/content-md/blob/master/github/01-g-i-p.md)
   * [Objects-1](https://github.com/jankeLearning/content-md/blob/master/js/01-objects-1.md)  
   * [Writing specs](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/01-specs.md)
 
@@ -53,4 +54,7 @@
 **Projects:**
   * Begin your [GH portfolio](https://github.com/jankeLearning/projects/blob/master/01-github-portfolio)  
   * [cleancalc 0-2](https://github.com/jankeLearning/projects/blob/master/cleancalc/)
+
+**Assessment**  
+  * [A google form](https://docs.google.com/forms/d/e/1FAIpQLSdSjyLSrXFOeo1X7E5qS7Hpb8D_2RAwGtPEs9rW5UrCmfTCbw/viewform?usp=sf_link)
 
