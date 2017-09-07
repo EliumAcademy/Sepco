@@ -22,7 +22,8 @@
 
 **Monday**    
   * [Scope Context-2](https://github.com/jankeLearning/content-md/blob/master/js/03-scope-context-2.md)  
-  * [Oop-2](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-oop-2.md)
+  * [OOP - prototypes](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-oop-prototypes.md)  
+  * [OOP - factories](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-oop-factories.md)  
 
 **Tuesday**  
   * [Algorithms-101](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-algorithms-101.md)  
