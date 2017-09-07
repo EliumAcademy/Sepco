@@ -1,14 +1,3 @@
-
-<style>
-
-.weektheme{
-    background-color: #404040;
-    color: white;
-    padding: 10px 20px 15px 20px;
-}
-
-</style>
-
 <h4 class="weektheme">Week Theme: Persisting Data, Better App Structures</h4> 
   
 **Topics**  

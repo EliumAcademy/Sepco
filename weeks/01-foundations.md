@@ -1,14 +1,4 @@
 
-<style>
-
-.weektheme{
-    background-color: #404040;
-    color: white;
-    padding: 10px 20px 15px 20px;
-}
-
-</style>
-
 <h4 class="weektheme">Week Theme: Common Groundworks</h4>
 
 

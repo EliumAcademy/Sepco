@@ -1,13 +1,3 @@
-<style>
-
-.weektheme{
-    background-color: #404040;
-    color: white;
-    padding: 10px 20px 15px 20px;
-}
-
-</style>
-
 <h4 class="weektheme"><b>Here you can find the entrepreneurship and Growth hacking session</b></h4>
 
 

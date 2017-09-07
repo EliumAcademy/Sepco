@@ -1,5 +1,4 @@
-**Week theme:**  
-  * REACT  
+<h4 class="weektheme">Week Theme: React</h4>
   
 **Topics**  
   * createreactapp  

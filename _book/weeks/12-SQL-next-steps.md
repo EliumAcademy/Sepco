@@ -1,6 +1,4 @@
-**Week theme:**  
-  * SQL/relational  
-  * next steps
+<h4 class="weektheme">Week Theme: SQL/Relational, Next Steps</h4>
   
 **Topics**  
   * tiny bits of everything  

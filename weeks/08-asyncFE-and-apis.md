@@ -1,6 +1,5 @@
-**Week theme:**  
-  * Async Frontends, Api Backends  
-  
+<h4 class="weektheme">Week Theme: Async Frontends, Api Backends</h4>
+
 **Topics**  
   * Async JS  
   * Api's  
@@ -26,6 +25,6 @@
   * [Postman-2](https://github.com/jankeLearning/content-md/blob/master/tools/08-postman-2.md)  
   
 **Projects**  
-  * cleancalc 5  
-  * tictactoe 5  
-  * app of your choice  
+  * Cleancalc 5  
+  * Tictactoe 5  
+  * App of Your Choice  

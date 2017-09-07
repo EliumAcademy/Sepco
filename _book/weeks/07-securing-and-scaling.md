@@ -1,5 +1,4 @@
-**Week theme:**  
-  * Securing and Scaling Your Application  
+<h4 class="weektheme">Week Theme: Securing and Scaling Your Application</h4>   
   
 **Topics**  
   * Cyber-security  

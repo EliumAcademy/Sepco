@@ -1,10 +1,9 @@
-**Week theme:**  
-  * Modern collaborative development tools and techniques
+<h4 class="weektheme">Week Theme: Modern Collaborative Development Tools and Techniques</h4>
   
 **Topics**  
   * Agile, Scrum 
-  * project management
-  * planning, documenting large projects
+  * Project Management
+  * Planning, Documenting Large Projects
   * TDD, BDD
   
 All lectures in no order, to be sorted:

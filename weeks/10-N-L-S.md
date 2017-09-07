@@ -1,19 +1,8 @@
-<<<<<<< HEAD:weeks/10-N-L-S.md
-**Week Theme**
-  * advanced libraries and techniques you'll need for react  
+<h4 class="weektheme">Week Theme: Advanced Libraries and Techniques You'll Need for React</h4>
   
 **Topics**  
   * read the lecture titles  
 
-=======
-**Week theme:**  
-  * Assorted Advanced Things  
-  
-**Topics**  
-  * See schedule  
-  
-  
->>>>>>> 30776b50f5c6cb3a9bdb1f7fec3aa90dbf25fc2b:weeks/09-advanced-things.md
 **Monday**  
   * [ES6](https://github.com/jankeLearning/content-md/blob/master/js/09-es6.md)  
   * [Local Moduling](https://github.com/jankeLearning/content-md/blob/master/npm-modules/09-local-moduling.md)
