@@ -1,26 +1,9 @@
-<style> {
 
-  font-size: 58px
-}
+<h1><center> P2P MENTORING ON YOUR IDEA</center></h1>
 
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
+<span class="mediumtext">First step, book a meeting with me</span>
+<span class="button">Book a Meeting</span>
 
-th, td {
-    padding: 18px;
-    text-align: center;
-    border-bottom: 5px solid black;
-}
-
-</style>
-
-# P2P MENTORING ON YOUR IDEA (optional)
-
-
-### First step, book a meeting with me
-<img src="https://drive.google.com/a/elium.academy/file/d/0B06Gkx7uZRaPS1U0bHhMVUYzNnM/view?usp=sharing" style="width:775,346px;height:28,346px;">
 <table>
     <tr>
       <td>Ideation what is your vision the problem you solve</td>
