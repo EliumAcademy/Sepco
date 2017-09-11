@@ -1,7 +1,7 @@
 <h4 class="weektheme">Week Theme: SQL/Relational, Next Steps</h4>
   
 **Topics**  
-  * tiny bits of everything  
+  * Tiny bits of everything  
   
 **Monday**  
   * [SQL Relational-1](https://github.com/jankeLearning/content-md/blob/master/databases/11-SQL-relational-1.md)

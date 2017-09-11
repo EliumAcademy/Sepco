@@ -1,5 +1,5 @@
 
-<h1><center> P2P MENTORING ON YOUR IDEA</center></h1>
+<h1><center>P2P MENTORING ON YOUR IDEA</center></h1>
 
 <div class="p2pbanner">
     <div class="p2pinner">

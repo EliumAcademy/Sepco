@@ -20,15 +20,13 @@
 
 **Thursday**  
   * [Passport Jwt](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-jwt.md)  
-  * some es6 tricks  
+  * Some ES6 Tricks  
   
 **Projects**  
-  * authenticated app  
-    * services architecture  
-    * full repo  
-    * full frontend  
-    * deployed demo  
-    * sessions auth   
+  * Authenticated App  
+    * Services Architecture  
+    * Full Repo  
+    * Full Frontend  
 
 
    
