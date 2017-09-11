@@ -1,4 +1,3 @@
-* [Welcome to Elium](top_stuff/welcome.md)  
 * [Part 1 - Frontend, Devving](phases/ph1-frontend-and-devving.md)
 	* [w1 - Foundations](weeks/01-foundations.md)  
 	* [w2 - Apps 101](weeks/02-apps-101.md)
