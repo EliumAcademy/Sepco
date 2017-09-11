@@ -4,26 +4,26 @@
 	padding: 10px 20px 15px 20px;
 }
 
-.flat-table {
-  display: block;
-  font-family: sans-serif;
-  -webkit-font-smoothing: antialiased;
-  font-size: 115%;
-  overflow: auto;
-  width: auto;
-  
-  th {
-    background-color: rgb(112, 196, 105);
+.button {
+    background-color: #ffcc00;
     color: white;
-    font-weight: normal;
-    padding: 20px 30px;
+    padding: 10px 50px;
+    font-weight: bold;
     text-align: center;
-  }
-  td {
-    background-color: rgb(238, 238, 238);
-    color: rgb(111, 111, 111);
-    padding: 20px 30px;
-  }
-		}
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 25px;
+    display: inline;
+    vertical-align: middle;
+    margin: 0px 10px;
+    float: none;
+}
 
- 
+.mediumtext {
+	font-weight: bold;
+	font-size:  18px;
+	display: inline;
+    vertical-align: middle;
+    text-indent: 50px;
+}
+
