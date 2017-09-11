@@ -21,6 +21,7 @@
   * [Installations](https://github.com/jankeLearning/content-md/blob/master/tools/01-installations.md)   
   * [Node-1](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/01-node-1.md)   
   * [Git and Github](https://github.com/jankeLearning/content-md/blob/master/git/01-what-is-git-and-hub.md)  
+  * [js 101](https://github.com/jankeLearning/content-md/blob/master/js/01-js-101.md)   
 
 **Tuesday**
   * [Procedural Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/01-procedural-programming.md)  
