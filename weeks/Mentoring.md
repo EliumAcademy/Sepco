@@ -5,7 +5,7 @@
     <div class="p2pinner">
     	<span class="mediumtext">First step, book a meeting with me</span>
     	<span class="button">
-		<a href="https://calendly.com/-elium/elium-expert-meeting">
+		<a href="https://calendly.com/-elium/business-mentoring/">
     	Book a Meeting</a>
     	</span>
     </div>
