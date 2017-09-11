@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-**Week Theme**
-  * advanced libraries and techniques you'll need for react  
-=======
+
 <h4 class="weektheme">Week Theme: Advanced Libraries and Techniques You'll Need for React</h4>
->>>>>>> 6e6e041d210537e2e9dd3f4e3d88afe904400098
+
   
 **Topics**  
   * read the lecture titles  
@@ -27,16 +24,16 @@
   * [Dot Prototype](https://github.com/jankeLearning/content-md/blob/master/js/09-dot-prototype.md)  
 
 **Projects**
-  * Continue personal project
-  * Continue group project
-  * adv project - need to design it  
-    * lodash  
-    * es6 features  
-    * immutable data  
+  * Continue Personal Project
+  * Continue Group Project
+  * Adv Project - need to design it  
+    * Lodash  
+    * ES6 features  
+    * Immutable data  
     * .prototype or classes  
-    * your backend or public api  
-    * local modules  
-    * **just a toy to use these things**
+    * Your backend or public api  
+    * Local modules  
+    * **Just a toy to use these things**
 
 
 

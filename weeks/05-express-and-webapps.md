@@ -7,7 +7,7 @@
   
   
 **Monday**  
-  * [the Internet](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-the-internet.md)  
+  * [The Internet](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-the-internet.md)  
   * [Node-3](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-node-3.md)  
   * [Express Overview](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-express-overview.md)  
   * [Deployment-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-deployment-1.md)  

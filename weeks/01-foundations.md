@@ -14,7 +14,7 @@
 
 
 **Monday**  
-  * Welcome! 
+  * [Welcome!](https://docs.google.com/presentation/d/1Qz3bR5yZ0O_uk_ga2XWeOiDqx8vnSAufgiCQyhMwtbk/edit#slide=id.g1d8c86eea1_0_411) 
   * [Be Prepared!](https://docs.google.com/presentation/d/1EBONRhhJ7CVMQhqa_qH9kulfuVQUYOkJPcRvMAIZFdo/edit#slide=id.g2231dabbc5_0_27) 
   * Initial one-on-one meetings   
   * [Cli](https://github.com/jankeLearning/content-md/blob/master/tools/01-cli.md)  
@@ -43,7 +43,7 @@
 
 
 **Projects:**
-  * Begin your [GH portfolio](https://github.com/jankeLearning/projects/blob/master/01-github-portfolio)  
+  * [Begin your GH portfolio](https://github.com/jankeLearning/projects/blob/master/01-github-portfolio)  
   * [Cleancalc 0-2](https://github.com/jankeLearning/projects/blob/master/cleancalc/)
 
 **Assessment**  
