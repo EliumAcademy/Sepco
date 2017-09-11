@@ -7,14 +7,12 @@
 .button {
     background-color: #ffcc00;
     color: white;
-    padding: 10px 50px;
+    padding: 10px 55px;
     font-weight: bold;
     text-align: center;
-    font-size: 16px;
+    font-size: 14px;
     cursor: pointer;
     border-radius: 25px;
-    display: inline;
-    vertical-align: middle;
     margin: 0px 10px;
     float: none;
 }
@@ -24,6 +22,15 @@
 	font-size:  18px;
 	display: inline;
     vertical-align: middle;
-    text-indent: 50px;
+    text-indent: 40px;
 }
 
+.p2pbanner {
+	padding: 30px;
+}
+
+.p2pinner {
+    width: 550px;
+	margin-left: auto;
+    margin-right: auto;
+}
