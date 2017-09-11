@@ -1,0 +1,29 @@
+.weektheme {
+	background-color: #404040;
+	color: white;
+	padding: 10px 20px 15px 20px;
+}
+
+.button {
+    background-color: #ffcc00;
+    color: white;
+    padding: 10px 50px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 25px;
+    display: inline;
+    vertical-align: middle;
+    margin: 0px 10px;
+    float: none;
+}
+
+.mediumtext {
+	font-weight: bold;
+	font-size:  18px;
+	display: inline;
+    vertical-align: middle;
+    text-indent: 50px;
+}
+
