@@ -9,7 +9,7 @@
   
 
 **Monday**   
-  * [Async-2](https://github.com/jankeLearning/content-md/blob/master/js/04-async-2.md)  
+  * [Async-1](https://github.com/jankeLearning/content-md/blob/master/js/03-async-1.md)   
   * [Node-2](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/04-node-2.md)  
   * [Module Dot Export](https://github.com/jankeLearning/content-md/blob/master/js/04-module-dot-export.md)
   * [Building](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-packaging.md)  
@@ -19,7 +19,8 @@
 **Tuesday**  
   * [DOM-2](https://github.com/jankeLearning/content-md/blob/master/frontend/04-DOM-2.md)  
   * [Sh Scripts](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-sh-scripts.md)  
-  * [Event Driven Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/04-event-driven-programming.md)
+  * [Event Driven Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/04-event-driven-programming.md)  
+  * [Async-2](https://github.com/jankeLearning/content-md/blob/master/js/04-async-2.md)  
 
 **Wednesday**  
   * No lecture - individual catch-up day 
