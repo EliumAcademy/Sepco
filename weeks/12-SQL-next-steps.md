@@ -19,7 +19,7 @@
     * electron  
     * ... ?
 
-**Wenesday**   
+**Wenesday**   these will collapse to one file on advanced archis and des patts, just a long list
   * [Move](https://github.com/jankeLearning/content-md/blob/master/app-design/11-MOVE.md)  
   * [Clean](https://github.com/jankeLearning/content-md/blob/master/app-design/11-CLEAN.md)
   * [Solid](https://github.com/jankeLearning/content-md/blob/master/app-design/11-SOLID.md)

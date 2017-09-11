@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+**Week Theme**
+  * advanced libraries and techniques you'll need for react  
+=======
 <h4 class="weektheme">Week Theme: Advanced Libraries and Techniques You'll Need for React</h4>
+>>>>>>> 6e6e041d210537e2e9dd3f4e3d88afe904400098
   
 **Topics**  
   * read the lecture titles  
