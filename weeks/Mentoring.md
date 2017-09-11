@@ -1,8 +1,15 @@
 
 <h1><center> P2P MENTORING ON YOUR IDEA</center></h1>
 
-<span class="mediumtext">First step, book a meeting with me</span>
-<span class="button">Book a Meeting</span>
+<div class="p2pbanner">
+    <div class="p2pinner">
+    	<span class="mediumtext">First step, book a meeting with me</span>
+    	<span class="button">
+		<a href="https://calendly.com/-elium/elium-expert-meeting">
+    	Book a Meeting</a>
+    	</span>
+    </div>
+</div>
 
 <table>
     <tr>
