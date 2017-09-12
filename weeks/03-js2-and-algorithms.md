@@ -1,32 +1,30 @@
-<h4 class="weektheme">Week Theme: Next Level JS and Algorithms</h4>
+<h4 class="weektheme">Week Theme: Next Level JS, Algorithms, data models</h4>
 
 
 **Learning Objectives:**  
   * What are algorithms?  
-  * What is inheritance, how do classes do it?  
+  * How do Objects work in JS  
   * Recursion  
-  * Asynchronicity  
-  * How to model with inheritance  
+  * Asynchronicity   
   * What are data structures?  
     
 
-**Monday**    
-  * [Algorithms-101](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-algorithms-101.md)    
-  * [Data Modeling-2](https://github.com/jankeLearning/content-md/blob/master/app-design/03-data-modeling-2.md)  
-  * [BST Recursion](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-BST-recursion.md)  
-
-**Tuesday**  
+**Monday**   
   * [Scope Context-2](https://github.com/jankeLearning/content-md/blob/master/js/03-scope-context-2.md)  
   * [OOP - prototypes](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-oop-prototypes.md) 
-  * [functional programming]()
+  * [OOP - factories](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-oop-factories.md) 
+
+**Tuesday**  
+  * [Algorithms-101](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-algorithms-101.md)    
+  * [BST Recursion](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-BST-recursion.md)  
 
 
 **Wednesday**  
-  * [FP vs OOP]()
+  * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md) 
+  * [Data Modeling-2](https://github.com/jankeLearning/content-md/blob/master/app-design/03-data-modeling-2.md)  
 
-**Thursday**
-  * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md)  
-  * [OOP - factories](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-oop-factories.md) 
+**Thursday** 
+  * [Async 1](https://github.com/jankeLearning/content-md/blob/master/js/03-async-1.md)    
   
 **Projects**  
   * [Data Structures](https://github.com/jankeLearning/projects/blob/master/03-data-structures)  
