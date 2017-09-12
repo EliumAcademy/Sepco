@@ -38,7 +38,8 @@
 * **Thursday** 
   * [Scope Context](https://github.com/jankeLearning/content-md/blob/master/js/01-scope-context-1.md)   
   * [Github portfolio](https://github.com/jankeLearning/content-md/blob/master/github/01-gh-pages-portfolio.md)  
-  * [testing 101](https://github.com/jankeLearning/content-md/blob/master/testing/01-testing-101.md)
+  * [testing 101](https://github.com/jankeLearning/content-md/blob/master/testing/01-testing-101.md)  
+  * [Readable Code](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/02-readable-code.md) 
 
 
 
