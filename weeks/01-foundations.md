@@ -27,7 +27,8 @@
   * [Procedural Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/01-procedural-programming.md)  
   * [Git](https://github.com/jankeLearning/content-md/blob/master/git/01-git.md)
   * [Functions](https://github.com/jankeLearning/content-md/blob/master/js/01-functions.md)   
-  * [English to JS](https://github.com/jankeLearning/content-code/blob/master/Week%2001/english2js/)
+  * [English to JS](https://github.com/jankeLearning/content-code/blob/master/Week%2001/english2js/)  
+  * [Github portfolio](https://github.com/jankeLearning/content-md/blob/master/github/01-gh-pages-portfolio.md)
 
 * **Wednesday**  
   * [Github repos](https://github.com/jankeLearning/content-md/blob/master/github/01-repos-1.md)   
@@ -36,8 +37,7 @@
   * [Writing specs](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/01-specs.md)
 
 * **Thursday** 
-  * [Scope Context](https://github.com/jankeLearning/content-md/blob/master/js/01-scope-context-1.md)   
-  * [Github portfolio](https://github.com/jankeLearning/content-md/blob/master/github/01-gh-pages-portfolio.md)  
+  * [Scope Context](https://github.com/jankeLearning/content-md/blob/master/js/01-scope-context-1.md)    
   * [testing 101](https://github.com/jankeLearning/content-md/blob/master/testing/01-testing-101.md)  
   * [Readable Code](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/02-readable-code.md) 
 
