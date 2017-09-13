@@ -45,7 +45,8 @@
 
 **Projects:**
   * [Begin your GH portfolio](https://github.com/jankeLearning/projects/blob/master/01-github-portfolio)  
-  * [Cleancalc 0-2](https://github.com/jankeLearning/projects/blob/master/cleancalc/)
+  * [Cleancalc 0-2](https://github.com/jankeLearning/projects/blob/master/cleancalc/)  
+  * [Class Notes Repo](https://github.com/jankeLearning/projects/blob/master/01-class-notes/)
 
 **Assessment**  
   * [A google form](https://docs.google.com/forms/d/e/1FAIpQLSdSjyLSrXFOeo1X7E5qS7Hpb8D_2RAwGtPEs9rW5UrCmfTCbw/viewform?usp=sf_link)
