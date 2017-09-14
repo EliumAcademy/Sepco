@@ -2,6 +2,8 @@
 git add .
 git commit -m 'building'
 git checkout master
+# pull other changes
+git pull origin master
 # build new gitbook
 gitbook build
 # copy it out of the way for branch change
