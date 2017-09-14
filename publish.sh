@@ -7,10 +7,13 @@ gitbook build
 # copy it out of the way for branch change
 # f to overwirte last publication
 cp -rf ./_book/. ../book-holder/ 
+# delete _book folder
+# rm -rf ./_book
 # commit recent build
 git add .
 git commit -m 'publishing'
 # push newest source
+# git pull origin master
 # git push origin master
 # switch to gh-pages branch
 git checkout gh-pages
