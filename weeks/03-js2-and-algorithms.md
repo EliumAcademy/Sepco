@@ -25,6 +25,7 @@
 
 **Thursday** 
   * [Async 1](https://github.com/jankeLearning/content-md/blob/master/js/03-async-1.md)    
+  * [Primitives and Coersion]()
   
 **Projects**  
   * [Data Structures](https://github.com/jankeLearning/projects/blob/master/03-data-structures)  
