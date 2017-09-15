@@ -4,11 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-        <title>Part 1 - frontend, devving · GitBook</title>
-=======
-        <title>Part 1 - Frontend, Devving · GitBook</title>
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
+        <title>Part 3 - Projects, NLS · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -63,10 +59,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../weeks/01-foundations.html" />
+    <link rel="next" href="../weeks/09-group-projecting.html" />
     
     
-    <link rel="prev" href="../" />
+    <link rel="prev" href="../weeks/08-asyncFE-and-apis.html" />
     
 
     </head>
@@ -108,16 +104,12 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.2" data-path="ph1-frontend-and-devving.html">
+        <li class="chapter " data-level="1.2" data-path="ph1-frontend-and-devving.html">
             
                 <a href="ph1-frontend-and-devving.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    Part 1 - frontend, devving
-=======
                     Part 1 - Frontend, Devving
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -131,11 +123,7 @@
                 <a href="../weeks/01-foundations.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w1 - foundations
-=======
                     w1 - Foundations
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -148,11 +136,7 @@
                 <a href="../weeks/02-apps-101.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w2 - apps 101
-=======
                     w2 - Apps 101
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -165,11 +149,7 @@
                 <a href="../weeks/03-js2-and-algorithms.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w3 - JS 2, algorithms
-=======
                     w3 - JS 2, Algorithms
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -182,11 +162,7 @@
                 <a href="../weeks/04-front-end-developing.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w4 - FE developing
-=======
                     w4 - FE Developing
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -204,11 +180,7 @@
                 <a href="ph2-backend-express.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    Part 2 - backend, express
-=======
                     Part 2 - Backend, Express
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -222,11 +194,7 @@
                 <a href="../weeks/05-express-and-webapps.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w5 - express, webapps
-=======
                     w5 - Express, Webapps
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -239,11 +207,7 @@
                 <a href="../weeks/06-persisting-and-architecture.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w6 - persisting, architecture
-=======
                     w6 - Persisting, Architecture
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -256,11 +220,7 @@
                 <a href="../weeks/07-securing-and-scaling.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w7 - securing, scaling
-=======
                     w7 - Securing, Scaling
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -273,11 +233,7 @@
                 <a href="../weeks/08-asyncFE-and-apis.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    w8 - async frontend, API's
-=======
                     w8 - Async Frontend, API's
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -290,16 +246,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" data-path="ph3-advanced-paths.html">
+        <li class="chapter active" data-level="1.4" data-path="ph3-advanced-paths.html">
             
                 <a href="ph3-advanced-paths.html">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    Part 3 - advanced paths
-=======
                     Part 3 - Projects, NLS
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -308,21 +260,12 @@
             <ul class="articles">
                 
     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-        <li class="chapter " data-level="1.4.1" data-path="../weeks/09-advanced-things.html">
-            
-                <a href="../weeks/09-advanced-things.html">
-            
-                    
-                    w9 - advanced things
-=======
         <li class="chapter " data-level="1.4.1" data-path="../weeks/09-group-projecting.html">
             
                 <a href="../weeks/09-group-projecting.html">
             
                     
                     w9 - Group Projecting
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -330,21 +273,12 @@
             
         </li>
     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-        <li class="chapter " data-level="1.4.2" data-path="../weeks/10-react.html">
-            
-                <a href="../weeks/10-react.html">
-            
-                    
-                    w10 - REACT
-=======
         <li class="chapter " data-level="1.4.2" data-path="../weeks/10-N-L-S.html">
             
                 <a href="../weeks/10-N-L-S.html">
             
                     
                     w10 - NLS
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -352,21 +286,12 @@
             
         </li>
     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-        <li class="chapter " data-level="1.4.3" data-path="../weeks/11-adv-archis-and-SQL.html">
-            
-                <a href="../weeks/11-adv-archis-and-SQL.html">
-            
-                    
-                    w11 - SQL, advanced architectures
-=======
         <li class="chapter " data-level="1.4.3" data-path="../weeks/11-REACT.html">
             
                 <a href="../weeks/11-REACT.html">
             
                     
                     w11 - REACT
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -374,21 +299,12 @@
             
         </li>
     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-        <li class="chapter " data-level="1.4.4" data-path="../weeks/12-next-steps.html">
-            
-                <a href="../weeks/12-next-steps.html">
-            
-                    
-                    w12 - next steps
-=======
         <li class="chapter " data-level="1.4.4" data-path="../weeks/12-SQL-next-steps.html">
             
                 <a href="../weeks/12-SQL-next-steps.html">
             
                     
                     w12 - SQL, Next Steps
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -445,11 +361,7 @@
                 <a target="_blank" href="https://github.com/EliumAcademy/Sepco/wiki">
             
                     
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                    Bye
-=======
                     Sepco Wiki
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
             
                 </a>
             
@@ -487,11 +399,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-        <a href=".." >Part 1 - frontend, devving</a>
-=======
-        <a href=".." >Part 1 - Frontend, Devving</a>
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
+        <a href=".." >Part 3 - Projects, NLS</a>
     </h1>
 </div>
 
@@ -506,82 +414,64 @@
     
                                 <section class="normal markdown-section">
                                 
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                                <p>developering, frontend tools simple to advanced</p>
-<p>welcome, part 1 is designed to be a thorough introduction to js and frontend development.<br>what you will learn here will set you up to be a modern js front-end developer without commiting to a backend language or framework.   This includes developing frontend apps in the node environment and using them statically through opened html files</p>
-<p>we will cover:
-    structuring your development process
-    js languange 
-    modern programming paradigms and workflows
-    js compiling and packaging
-    async api-based apps</p>
-=======
-                                <h1 id="chapter-1----developer-skills-and-javascript">Chapter 1 -  Developer Skills and JavaScript</h1>
-<p>The first part of this course is designed to be a backend agnostic introduction to software and web development all in JavaScript. </p>
+                                <h1 id="team-development-personal-projects-and-nls">Team Development, Personal Projects, and N.L.S.</h1>
+<p>The third part of the course will have three focuses in parallel:</p>
+<ul>
+<li><em>Group Development</em> - Over the course of 3-4 weeks practice planning, developing, testing, deploying, and maintaining a webapp in a small team.  You will explore modern management and testing paradigms.  You will also learn to use GitHub&apos;s collaboration features to coordinate your efforts, host documentation, and publicise your project.</li>
+<li><em>Personal Projects</em> - Complete your own personal project.  You have the choice to down two paths: Developer or Entrepreneur.  If you want to go the Dev route you will work with the Coding Mentors to plan and build an app that will stretch your development skills to the edge.  If you want to go the Entrepreneur route you will work with Juan to perfect your business plan, pitch, landing page, marketing strategy, and plan an MVP.  You are free to create your own hybrid track too. Want a complete MVP + landing page <em>and</em> a business plan but no marketing strategy?  Go for it.</li>
+<li><em>N.L.S.</em> - Explore a variety of advanced development tools and concepts including REACT, immutable data flow, advanced architectures, deployment tools, relational databases, and more.  (see below)</li>
+</ul>
 <p>Topics covered:</p>
 <ul>
-<li>Algorithms -<ul>
-<li>what are they?</li>
-<li>Data Structures</li>
-<li>recursion</li>
+<li>App Design<ul>
+<li>SPAs</li>
+<li>MVVM</li>
+<li>CLEAN</li>
+<li>Dependency Injection</li>
+<li>MOVE</li>
+<li>SOLID</li>
 </ul>
 </li>
-<li>App Design -<ul>
-<li>App = data + interaction</li>
-<li>MVC</li>
-<li>Data Modeling basics</li>
+<li>Databases<ul>
+<li>SQL and Relational DB&apos;s</li>
 </ul>
 </li>
-<li>Developer Skills -<ul>
-<li>Reading/writing specs or documentation</li>
-<li>Writing user-friendly codebase</li>
-<li>Organizing your GitHub account</li>
-<li>Organizing your development process</li>
+<li>Dev Knowledge<ul>
+<li>Design Patterns</li>
+<li>Opensource Contributing</li>
+<li>Regex</li>
 </ul>
 </li>
-<li>Frontend -<ul>
-<li>HTML and CSS fundamentals</li>
-<li>DOM basics</li>
+<li>GitHub<ul>
+<li>Documentation</li>
+<li>Organizations</li>
+<li>Project Management</li>
 </ul>
 </li>
-<li>JavaScript -<ul>
-<li>fundamentals</li>
-<li>OOP basics -<ul>
-<li>apps as objects</li>
-<li>inheritance with classes</li>
-<li>modeling wiht objects</li>
+<li>JavaScript <ul>
+<li>Prototypical Inheritance</li>
+<li>ES6</li>
+<li>Functional programming 201</li>
+<li>JSX</li>
 </ul>
 </li>
-<li>functional basics - <ul>
-<li>pure functions</li>
-<li>closures 101</li>
+<li>NPM Modules<ul>
+<li>Local Moduling</li>
+<li>Lodash</li>
 </ul>
 </li>
-<li>async 101</li>
+<li>REACT 101</li>
+<li>Testing<ul>
+<li>Frameworks</li>
+<li>Testing paradigms</li>
 </ul>
 </li>
-<li>Node.js as ...<ul>
-<li>JS runtime </li>
-<li>build environment for front-end apps</li>
-</ul>
-</li>
-<li>Testing -<ul>
-<li>vanilla unit tests</li>
-<li>vanilla test suites</li>
-<li>testing paradigms</li>
-</ul>
-</li>
-<li>Tools -<ul>
-<li>CLI</li>
-<li>Node</li>
-<li>GitHub</li>
-<li>NPM</li>
-<li>ChromeDev</li>
-<li>Gulp+babel</li>
+<li>Tools<ul>
+<li>Documentation Generators</li>
+<li>Webpack and REACT Deployment</li>
 </ul>
 </li>
 </ul>
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
 
                                 
                                 </section>
@@ -609,16 +499,12 @@
 
             
                 
-                <a href="../" class="navigation navigation-prev " aria-label="Previous page: Introduction">
+                <a href="../weeks/08-asyncFE-and-apis.html" class="navigation navigation-prev " aria-label="Previous page: w8 - Async Frontend, API's">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-                <a href="../weeks/01-foundations.html" class="navigation navigation-next " aria-label="Next page: w1 - foundations">
-=======
-                <a href="../weeks/01-foundations.html" class="navigation navigation-next " aria-label="Next page: w1 - Foundations">
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
+                <a href="../weeks/09-group-projecting.html" class="navigation navigation-next " aria-label="Next page: w9 - Group Projecting">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -629,11 +515,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-<<<<<<< HEAD:_book/phases/ph1-frontend-and-devving.html
-            gitbook.page.hasChanged({"page":{"title":"Part 1 - frontend, devving","level":"1.2","depth":1,"next":{"title":"w1 - foundations","level":"1.2.1","depth":2,"path":"weeks/01-foundations.md","ref":"weeks/01-foundations.md","articles":[]},"previous":{"title":"Overview","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"phases/ph1-frontend-and-devving.md","mtime":"2017-08-12T20:24:08.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-08-12T20:24:20.391Z"},"basePath":"..","book":{"language":""}});
-=======
-            gitbook.page.hasChanged({"page":{"title":"Part 1 - Frontend, Devving","level":"1.2","depth":1,"next":{"title":"w1 - Foundations","level":"1.2.1","depth":2,"path":"weeks/01-foundations.md","ref":"weeks/01-foundations.md","articles":[]},"previous":{"title":"Introduction","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"phases/ph1-frontend-and-devving.md","mtime":"2017-09-13T14:07:37.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-09-14T11:00:03.828Z"},"basePath":"..","book":{"language":""}});
->>>>>>> 527fa16c5ce892d27f6c2517b2029072b47a98a4:_book/phases/ph1-frontend-and-devving.html
+            gitbook.page.hasChanged({"page":{"title":"Part 3 - Projects, NLS","level":"1.4","depth":1,"next":{"title":"w9 - Group Projecting","level":"1.4.1","depth":2,"path":"weeks/09-group-projecting.md","ref":"weeks/09-group-projecting.md","articles":[]},"previous":{"title":"w8 - Async Frontend, API's","level":"1.3.4","depth":2,"path":"weeks/08-asyncFE-and-apis.md","ref":"weeks/08-asyncFE-and-apis.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"phases/ph3-advanced-paths.md","mtime":"2017-09-13T14:07:37.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-09-14T11:00:03.828Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>

@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>w11 - REACT · GitBook</title>
+        <title>Part 3 - advanced paths · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.2">
@@ -34,8 +34,6 @@
 
     
         
-        <link rel="stylesheet" href="../styles/website.css">
-        
     
         
     
@@ -59,10 +57,10 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="12-SQL-next-steps.html" />
+    <link rel="next" href="../weeks/09-advanced-things.html" />
     
     
-    <link rel="prev" href="10-N-L-S.html" />
+    <link rel="prev" href="../weeks/08-asyncFE-and-apis.html" />
     
 
     </head>
@@ -96,7 +94,7 @@
                 <a href="../">
             
                     
-                    Introduction
+                    Overview
             
                 </a>
             
@@ -104,12 +102,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2" data-path="../phases/ph1-frontend-and-devving.html">
+        <li class="chapter " data-level="1.2" data-path="ph1-frontend-and-devving.html">
             
-                <a href="../phases/ph1-frontend-and-devving.html">
+                <a href="ph1-frontend-and-devving.html">
             
                     
-                    Part 1 - Frontend, Devving
+                    Part 1 - frontend, devving
             
                 </a>
             
@@ -118,12 +116,12 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.2.1" data-path="01-foundations.html">
+        <li class="chapter " data-level="1.2.1" data-path="../weeks/01-foundations.html">
             
-                <a href="01-foundations.html">
+                <a href="../weeks/01-foundations.html">
             
                     
-                    w1 - Foundations
+                    w1 - foundations
             
                 </a>
             
@@ -131,12 +129,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2.2" data-path="02-apps-101.html">
+        <li class="chapter " data-level="1.2.2" data-path="../weeks/02-apps-101.html">
             
-                <a href="02-apps-101.html">
+                <a href="../weeks/02-apps-101.html">
             
                     
-                    w2 - Apps 101
+                    w2 - apps 101
             
                 </a>
             
@@ -144,12 +142,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2.3" data-path="03-js2-and-algorithms.html">
+        <li class="chapter " data-level="1.2.3" data-path="../weeks/03-js2-and-algorithms.html">
             
-                <a href="03-js2-and-algorithms.html">
+                <a href="../weeks/03-js2-and-algorithms.html">
             
                     
-                    w3 - JS 2, Algorithms
+                    w3 - JS 2, algorithms
             
                 </a>
             
@@ -157,12 +155,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.2.4" data-path="04-front-end-developing.html">
+        <li class="chapter " data-level="1.2.4" data-path="../weeks/04-front-end-developing.html">
             
-                <a href="04-front-end-developing.html">
+                <a href="../weeks/04-front-end-developing.html">
             
                     
-                    w4 - FE Developing
+                    w4 - FE developing
             
                 </a>
             
@@ -175,12 +173,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3" data-path="../phases/ph2-backend-express.html">
+        <li class="chapter " data-level="1.3" data-path="ph2-backend-express.html">
             
-                <a href="../phases/ph2-backend-express.html">
+                <a href="ph2-backend-express.html">
             
                     
-                    Part 2 - Backend, Express
+                    Part 2 - backend, express
             
                 </a>
             
@@ -189,12 +187,12 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.3.1" data-path="05-express-and-webapps.html">
+        <li class="chapter " data-level="1.3.1" data-path="../weeks/05-express-and-webapps.html">
             
-                <a href="05-express-and-webapps.html">
+                <a href="../weeks/05-express-and-webapps.html">
             
                     
-                    w5 - Express, Webapps
+                    w5 - express, webapps
             
                 </a>
             
@@ -202,12 +200,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.2" data-path="06-persisting-and-architecture.html">
+        <li class="chapter " data-level="1.3.2" data-path="../weeks/06-persisting-and-architecture.html">
             
-                <a href="06-persisting-and-architecture.html">
+                <a href="../weeks/06-persisting-and-architecture.html">
             
                     
-                    w6 - Persisting, Architecture
+                    w6 - persisting, architecture
             
                 </a>
             
@@ -215,12 +213,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.3" data-path="07-securing-and-scaling.html">
+        <li class="chapter " data-level="1.3.3" data-path="../weeks/07-securing-and-scaling.html">
             
-                <a href="07-securing-and-scaling.html">
+                <a href="../weeks/07-securing-and-scaling.html">
             
                     
-                    w7 - Securing, Scaling
+                    w7 - securing, scaling
             
                 </a>
             
@@ -228,12 +226,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.3.4" data-path="08-asyncFE-and-apis.html">
+        <li class="chapter " data-level="1.3.4" data-path="../weeks/08-asyncFE-and-apis.html">
             
-                <a href="08-asyncFE-and-apis.html">
+                <a href="../weeks/08-asyncFE-and-apis.html">
             
                     
-                    w8 - Async Frontend, API's
+                    w8 - async frontend, API's
             
                 </a>
             
@@ -246,12 +244,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4" data-path="../phases/ph3-advanced-paths.html">
+        <li class="chapter active" data-level="1.4" data-path="ph3-advanced-paths.html">
             
-                <a href="../phases/ph3-advanced-paths.html">
+                <a href="ph3-advanced-paths.html">
             
                     
-                    Part 3 - Projects, NLS
+                    Part 3 - advanced paths
             
                 </a>
             
@@ -260,12 +258,12 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.4.1" data-path="09-group-projecting.html">
+        <li class="chapter " data-level="1.4.1" data-path="../weeks/09-advanced-things.html">
             
-                <a href="09-group-projecting.html">
+                <a href="../weeks/09-advanced-things.html">
             
                     
-                    w9 - Group Projecting
+                    w9 - advanced things
             
                 </a>
             
@@ -273,12 +271,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.2" data-path="10-N-L-S.html">
+        <li class="chapter " data-level="1.4.2" data-path="../weeks/10-react.html">
             
-                <a href="10-N-L-S.html">
+                <a href="../weeks/10-react.html">
             
                     
-                    w10 - NLS
+                    w10 - REACT
             
                 </a>
             
@@ -286,12 +284,12 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.4.3" data-path="11-REACT.html">
+        <li class="chapter " data-level="1.4.3" data-path="../weeks/11-adv-archis-and-SQL.html">
             
-                <a href="11-REACT.html">
+                <a href="../weeks/11-adv-archis-and-SQL.html">
             
                     
-                    w11 - REACT
+                    w11 - SQL, advanced architectures
             
                 </a>
             
@@ -299,12 +297,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.4.4" data-path="12-SQL-next-steps.html">
+        <li class="chapter " data-level="1.4.4" data-path="../weeks/12-next-steps.html">
             
-                <a href="12-SQL-next-steps.html">
+                <a href="../weeks/12-next-steps.html">
             
                     
-                    w12 - SQL, Next Steps
+                    w12 - next steps
             
                 </a>
             
@@ -317,51 +315,12 @@
             
         </li>
     
-        <li class="chapter " data-level="1.5" data-path="../profiles.html">
+        <li class="chapter " data-level="1.5" >
             
-                <a href="../profiles.html">
-            
-                    
-                    Student Profiles
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.6" data-path="Growth-Hacking.html">
-            
-                <a href="Growth-Hacking.html">
+                <a target="_blank" href="https://www.badgerbadgerbadger.com">
             
                     
-                    Growth Hacking
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.7" data-path="Mentoring.html">
-            
-                <a href="Mentoring.html">
-            
-                    
-                    Mentoring
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.8" >
-            
-                <a target="_blank" href="https://github.com/EliumAcademy/Sepco/wiki">
-            
-                    
-                    Sepco Wiki
+                    Bye
             
                 </a>
             
@@ -399,7 +358,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >w11 - REACT</a>
+        <a href=".." >Part 3 - advanced paths</a>
     </h1>
 </div>
 
@@ -414,28 +373,14 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h4 class="weektheme" id="week-theme-react">Week Theme: React</h4>
-
-<p><strong>Topics</strong>  </p>
-<ul>
-<li>Createreactapp  </li>
-<li>REACT  </li>
-<li>Router  </li>
-<li>Jsx  </li>
-<li>Mvvm  </li>
-</ul>
-<p><strong>Monday</strong> </p>
-<ul>
-<li><a href="https://github.com/jankeLearning/content-md/blob/master/app-design/10-MVVM.md" target="_blank">MVVM</a>  </li>
-<li><a href="https://github.com/jankeLearning/content-md/blob/master/js/10-jsx.md" target="_blank">JSX</a></li>
-</ul>
-<p><strong>Tuesday</strong><br><strong>Wednesday</strong><br><strong>Thursday</strong>  </p>
-<p><strong>Projects</strong>  </p>
-<ul>
-<li>A react practice project </li>
-<li>Personal project</li>
-<li>Group project </li>
-</ul>
+                                <p>part 3 will take looks at next-step skills
+    -advanced libraries and paradigms
+    -intro to react
+    -advanced backend architecture
+    -next step directions</p>
+<p>in this section we will introduce you to a variety of tools. 
+learn now what intersts you now, learn later what interests you later.  </p>
+<p>this phase is designed to give you tastes of the wider world while giving you a chance to finish your final projects and solidify your fundamental</p>
 
                                 
                                 </section>
@@ -463,12 +408,12 @@
 
             
                 
-                <a href="10-N-L-S.html" class="navigation navigation-prev " aria-label="Previous page: w10 - NLS">
+                <a href="../weeks/08-asyncFE-and-apis.html" class="navigation navigation-prev " aria-label="Previous page: w8 - async frontend, API's">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="12-SQL-next-steps.html" class="navigation navigation-next " aria-label="Next page: w12 - SQL, Next Steps">
+                <a href="../weeks/09-advanced-things.html" class="navigation navigation-next " aria-label="Next page: w9 - advanced things">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -479,7 +424,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"w11 - REACT","level":"1.4.3","depth":2,"next":{"title":"w12 - SQL, Next Steps","level":"1.4.4","depth":2,"path":"weeks/12-SQL-next-steps.md","ref":"weeks/12-SQL-next-steps.md","articles":[]},"previous":{"title":"w10 - NLS","level":"1.4.2","depth":2,"path":"weeks/10-N-L-S.md","ref":"weeks/10-N-L-S.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"weeks/11-REACT.md","mtime":"2017-09-13T14:07:37.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-09-14T11:00:03.828Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Part 3 - advanced paths","level":"1.4","depth":1,"next":{"title":"w9 - advanced things","level":"1.4.1","depth":2,"path":"weeks/09-advanced-things.md","ref":"weeks/09-advanced-things.md","articles":[]},"previous":{"title":"w8 - async frontend, API's","level":"1.3.4","depth":2,"path":"weeks/08-asyncFE-and-apis.md","ref":"weeks/08-asyncFE-and-apis.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"phases/ph3-advanced-paths.md","mtime":"2017-08-12T20:24:08.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-08-12T20:24:20.391Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
