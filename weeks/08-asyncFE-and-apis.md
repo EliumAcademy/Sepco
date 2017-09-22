@@ -7,7 +7,7 @@
   
  
 **Monday**  
-  * [Design Principles APIs](https://github.com/jankeLearning/content-md/blob/master/APIs/08-design-principles-APIs.md)  
+  * [APIs](https://github.com/TheOdinProject/javascript_curriculum/blob/master/MoreJS/APIs.md)  
   * [Async Frontend](https://github.com/jankeLearning/content-md/blob/master/app-design/08-async-frontend.md)
 
 **Tuesday**  
