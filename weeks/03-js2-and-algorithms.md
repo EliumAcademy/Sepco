@@ -16,6 +16,7 @@
   * [Async 1](https://github.com/jankeLearning/content-md/blob/master/js/03-async-1.md)    
 
 **Tuesday**   
+  * [Async 1](https://github.com/jankeLearning/content-md/blob/master/js/03-async-1.md)    
   * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md) 
   * [Data Modeling-2](https://github.com/jankeLearning/content-md/blob/master/app-design/03-data-modeling-2.md)  
 
