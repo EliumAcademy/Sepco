@@ -5,29 +5,39 @@
   * Node/express  
   * RESTful design  
   
-  
-**Monday**  
-  * [The Internet](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-the-internet.md)  
-  * [Node-3](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-node-3.md)  
-  * [Express Overview](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-express-overview.md)  
-  * [Deployment-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-deployment-1.md)  
-  * [Morgen](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-morgan.md)  
-  * [Env-Vars](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-env-vars.md) 
-    
-**Tuesday** 
-  * [Postman-1](https://github.com/jankeLearning/content-md/blob/master/tools/05-postman-1.md)  
-  * [RESTFUL routing](https://github.com/jankeLearning/content-md/blob/master/app-design/05-RESTFUL-routing.md)  
-  * [RESTFUL Network Design](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-RESTFUL-network-design.md)
+**Days**   
+  **Monday**  
+    * [The Internet](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-the-internet.md)  
+    * [Node-3](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-node-3.md)  
+    * [Express Overview](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-express-overview.md)  
+    * [Deployment-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-deployment-1.md)  
+    * [Morgen](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-morgan.md)  
+    * [Env-Vars](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-env-vars.md) 
+      
+  **Tuesday** 
+    * [Postman-1](https://github.com/jankeLearning/content-md/blob/master/tools/05-postman-1.md)  
+    * [RESTFUL routing](https://github.com/jankeLearning/content-md/blob/master/app-design/05-RESTFUL-routing.md)  
+    * [RESTFUL Network Design](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-RESTFUL-network-design.md)
 
-**Wednesday**  
-  * [EJS](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-ejs.md) 
+  **Wednesday**  
+    * [EJS](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-ejs.md) 
 
-**Thursday**  
-  * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
-  
+  **Thursday**  
+    * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
+      
+**Codes to study alone**   
+  * [slow, progress express intro](https://github.com/jankeLearning/content-code/tree/master/Week%2005/recap-express-basics)  
+  * [simple express apps to debug](https://github.com/jankeLearning/content-code/tree/master/Week%2005/debug-these)  
+  * [simple ejs app](https://github.com/jankeLearning/content-code/tree/master/Week%2005)  
+  * [George explains express](https://github.com/jankeLearning/content-code/tree/master/Week%2005/george-explains-express)    
+  * [Tictactoe 3, 4](https://github.com/jankeLearning/projects/blob/master/tictactoes/)   
+
+**Codes to code review**  
+  * [beavers series](https://github.com/jankeLearning/content-code/tree/master/Week%2005/development-scheduling)  
+  * [calculators seris](https://github.com/jankeLearning/content-code/tree/master/Week%2005/study-series-express)  
+
 **Projects**  
-  * Museum Static, fs  
-  * Cleancalc 3, 4  
-  * Tictactoe 3, 4  
-  * Book Express App
+  * [Museum Static, fs](https://github.com/jankeLearning/projects/blob/master/05-museums/)    
+  * [Cleancalc 3, 4](https://github.com/jankeLearning/projects/blob/master/cleancalc/)   
+  * [starBook Express App](https://github.com/jankeLearning/projects/blob/master/05-portable-starbook/)
   

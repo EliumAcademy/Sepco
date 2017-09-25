@@ -23,7 +23,7 @@
   * [Async-2](https://github.com/jankeLearning/content-md/blob/master/js/04-async-2.md)  
 
 **Wednesday**  
-  * No lecture - individual catch-up day 
+  * [Start the assessment](https://github.com/jankeLearning/assessments/tree/master/pre-node-codefromlasttime)  
 
 
 **Thursday**  
