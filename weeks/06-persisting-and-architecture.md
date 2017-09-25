@@ -8,8 +8,7 @@
   
 **Monday**  
   * [Mongoose-1](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongoose-1.md)  
-  * [Mongo.md](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongo.md)  
-  * [Env-Vars](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-env-vars.md)  
+  * [Mongo.md](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongo.md)   
   * [Reading Codebase-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/06-reading-codebase-1.md) 
 
 **Tuesday**  

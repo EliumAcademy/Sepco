@@ -31,7 +31,6 @@
   * [EXPRESS IS COMING](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/04-express-is-coming.md)
   
 **Projects**  
-  * [Be YouTube](https://github.com/jankeLearning/projects/tree/master/04-be-you-tube)  
-  * [Tictactoes 2](https://github.com/jankeLearning/projects/blob/master/tictactoes/2-tictapps)  
+  * [Be YouTube](https://github.com/jankeLearning/projects/tree/master/04-be-you-tube)   
   * [Finish *Book](https://github.com/jankeLearning/projects/blob/master/star-book)
   
