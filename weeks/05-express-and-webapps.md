@@ -31,6 +31,7 @@
   * [simple ejs app](https://github.com/jankeLearning/content-code/tree/master/Week%2005)  
   * [George explains express](https://github.com/jankeLearning/content-code/tree/master/Week%2005/george-explains-express)    
   * [Tictactoe 3, 4](https://github.com/jankeLearning/projects/blob/master/tictactoes/)   
+  * [Some debugging examples and modules](https://github.com/jankeLearning/content-code/tree/master/Week%2005/demo-debugging)  
 
 **Codes to code review**  
   * [beavers series](https://github.com/jankeLearning/content-code/tree/master/Week%2005/development-scheduling)  
