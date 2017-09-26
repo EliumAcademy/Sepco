@@ -25,7 +25,8 @@ All lectures in no order, to be sorted:
   * [Testing Frameworks](https://github.com/jankeLearning/content-md/blob/master/npm-modules/09-testing-frameworks.md)  
   * [Testing Strategies](https://github.com/jankeLearning/content-md/blob/master/testing/09-testing-strategies.md)  - move to group projecting
 
-  * [Stories to Sprints](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-stories-to-sprints.md) 
+
+  * [Auto-Generate Documentation](https://github.com/jankeLearning/content-md/blob/master/tools/09-doc-generators.md)  
 
 **Monday**  
 
@@ -37,6 +38,9 @@ All lectures in no order, to be sorted:
 
 
 **Thursday**  
+
+
+**Friday**  
   
   
 **Projects**  

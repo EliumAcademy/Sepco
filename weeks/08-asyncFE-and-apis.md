@@ -22,7 +22,10 @@
   * [Complexity is Counting](https://github.com/jankeLearning/content-md/blob/master/algorithms/08-complexity-is-counting.md)
   * [// next two combined?]  
   * [Api Testing](https://github.com/jankeLearning/content-md/blob/master/testing/08-api-testing.md)  
-  * [Postman-2](https://github.com/jankeLearning/content-md/blob/master/tools/08-postman-2.md)  
+  * [Postman-2](https://github.com/jankeLearning/content-md/blob/master/tools/08-postman-2.md)    
+
+**Friday**  
+  * [Prepare for next week](https://github.com/jankeLearning/projects/blob/master/09-collaboration-week/0-friday-before.md)
   
 **Projects**  
   * Cleancalc 5  

@@ -9,10 +9,11 @@
   
     
 **Monday** 
-  * [MVVM](https://github.com/jankeLearning/content-md/blob/master/app-design/10-MVVM.md)  
-  * [JSX](https://github.com/jankeLearning/content-md/blob/master/js/10-jsx.md)
+  * [SQL Relational-1](https://github.com/jankeLearning/content-md/blob/master/databases/11-SQL-relational-1.md)
 
 **Tuesday**  
+  * [SQL Relational-2](https://github.com/jankeLearning/content-md/blob/master/databases/11-SQL-relational-2.md)
+
 **Wednesday**  
 **Thursday**  
   

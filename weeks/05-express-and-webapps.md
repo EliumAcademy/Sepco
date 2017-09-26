@@ -21,6 +21,7 @@
 
   * **Wednesday**  
     * [EJS](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-ejs.md) 
+    * [Reading JS Codebase](https://www.badgerbadgerbadger.com)
 
   * **Thursday**  
     * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
