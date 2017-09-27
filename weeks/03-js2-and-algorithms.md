@@ -17,7 +17,6 @@
 
 **Tuesday**   
   * [Async 1](https://github.com/jankeLearning/content-md/blob/master/js/03-async-1.md)    
-  * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md) 
   * [Data Modeling-2](https://github.com/jankeLearning/content-md/blob/master/app-design/03-data-modeling-2.md)  
 
 **Wednesday**   
@@ -25,7 +24,8 @@
 
 **Thursday**  
   * [Algorithms-101](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-algorithms-101.md)    
-  * [BST Recursion](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-BST-recursion.md) 
+  * [BST Recursion](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-BST-recursion.md)  
+  * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md)  
   
 **Projects**   
   * [Callbacks and Data Modeling](https://github.com/jankeLearning/projects/tree/master/03-callbacks%2Bdata_models)  
