@@ -23,6 +23,7 @@
   * [Primitives and Coersion](https://github.com/jankeLearning/content-md/blob/master/js/03-primitives.md)   
 
 **Thursday**  
+  * [mcv-lh](https://github.com/jankeLearning/content-md/blob/master/app-design/03-mvc-lh.md)
   * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md)  
   
 **Projects**   
