@@ -23,8 +23,6 @@
   * [Primitives and Coersion](https://github.com/jankeLearning/content-md/blob/master/js/03-primitives.md)   
 
 **Thursday**  
-  * [Algorithms-101](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-algorithms-101.md)    
-  * [BST Recursion](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-BST-recursion.md)  
   * [Abstractions](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/03-abstractions.md)  
   
 **Projects**   
