@@ -4,6 +4,8 @@
   * Tiny bits of everything  
   
 **Monday**  
+  * [Algorithms-101](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-algorithms-101.md)    
+  * [BST Recursion](https://github.com/jankeLearning/content-md/blob/master/algorithms/03-BST-recursion.md)  
   * [/tools/12-list-of-fancies.md](https://github.com/jankeLearning/content-md/blob/master/tools/12-list-of-fancies.md) 
 
 **Tuesday**  
