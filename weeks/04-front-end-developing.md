@@ -9,6 +9,8 @@
   
 
 **Monday**   
+  * Go over how to finish and assessment. 
+  * Finish off part 1 portfolio before going to part 2.
   * [Async-1](https://github.com/jankeLearning/content-md/blob/master/js/03-async-1.md)   
   * [Node-2](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/04-node-2.md)  
   * [Module Dot Export](https://github.com/jankeLearning/content-md/blob/master/js/04-module-dot-export.md)
