@@ -33,5 +33,5 @@
 **Projects**  
   * [Be YouTube](https://github.com/jankeLearning/projects/tree/master/04-be-you-tube)   
   * [Finish *Book](https://github.com/jankeLearning/projects/blob/master/star-book)  
-  * Push your GitHub home page and bio to the bitbook
+  * [assessment](https://github.com/jankeLearning/assessments/tree/master/pre-node-assessment)
   
