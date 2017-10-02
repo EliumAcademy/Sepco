@@ -10,16 +10,20 @@
 
 **Monday**   
   * 1-1's:  look over portfolio, explain assessment
-  * schematizer codealong
-  * [DOM-2](https://github.com/jankeLearning/content-md/blob/master/frontend/04-DOM-2.md)  
-  * [Sh Scripts](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-sh-scripts.md)  
-  * [Event Driven Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/04-event-driven-programming.md)  
-  * [Async-2](https://github.com/jankeLearning/content-md/blob/master/js/04-async-2.md)  
-  * [Node-2](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/04-node-2.md)  
-  * [Module Dot Export](https://github.com/jankeLearning/content-md/blob/master/js/04-module-dot-export.md)
-  * [Building](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-packaging.md)  
-  * [Npm](https://github.com/jankeLearning/content-md/blob/master/tools/04-npm.md)  
-  * [Axios](https://github.com/jankeLearning/content-md/blob/master/npm-modules/04-axios.md) 
+  * schematizer codealong  
+  * important and difficult new topics  
+    * [Async-2](https://github.com/jankeLearning/content-md/blob/master/js/04-async-2.md)  
+    * [Axios](https://github.com/jankeLearning/content-md/blob/master/npm-modules/04-axios.md) 
+    * [Building](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-packaging.md)  
+  * important and not-so-difficult things  
+    * [Node-2](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/04-node-2.md)  
+    * [Module Dot Export](https://github.com/jankeLearning/content-md/blob/master/js/04-module-dot-export.md)
+    * [Npm](https://github.com/jankeLearning/content-md/blob/master/tools/04-npm.md)  
+  * nifty but not so important things
+    * [DOM-2](https://github.com/jankeLearning/content-md/blob/master/frontend/04-DOM-2.md)  
+    * [Sh Scripts](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/04-sh-scripts.md)  
+    * [Event Driven Programming](https://github.com/jankeLearning/content-md/blob/master/programming-and-paradigms/04-event-driven-programming.md)  
+
 
 **Tuesday**  
   * google maps codealong
