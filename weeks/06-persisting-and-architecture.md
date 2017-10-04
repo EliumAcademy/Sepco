@@ -8,8 +8,8 @@
   
 **Monday**  
   * [Mongoose-1](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongoose-1.md)  
-  * [Mongo.md](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongo.md)   
-  * [Reading Codebase-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/06-reading-codebase-1.md) 
+  * [Mongo.db](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongo.md)   
+  * [inside express](https://github.com/jankeLearning/projects/tree/master/06-inside-express) 
 
 **Tuesday**  
   * [Mongoose-2](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongoose-2.md) 
