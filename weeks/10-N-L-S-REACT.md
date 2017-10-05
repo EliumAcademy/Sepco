@@ -4,6 +4,7 @@
   
 **Topics**  
   * read the lecture titles  
+  * functional programming
 
 **Monday**  
   * [ES6](https://github.com/jankeLearning/content-md/blob/master/js/09-es6.md)  

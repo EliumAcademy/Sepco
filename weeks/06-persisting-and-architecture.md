@@ -14,7 +14,6 @@
   * [Mongoose-2](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongoose-2.md) 
 
 **Wednesday** 
-  * [FP-1](https://github.com/jankeLearning/content-md/blob/master/js/06-FP-1.md) 
   * [Jasmine]()  
 
 **Thursday**  
