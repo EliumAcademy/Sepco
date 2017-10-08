@@ -33,5 +33,6 @@
 **Projects**  
   * [Museum Static, fs](https://github.com/jankeLearning/projects/blob/master/05-museums/)    
   * [Cleancalc 3, 4](https://github.com/jankeLearning/projects/blob/master/cleancalc/)   
-  * [starBook Express App](https://github.com/jankeLearning/projects/blob/master/05-portable-starbook/)
+  * [starBook Express App](https://github.com/jankeLearning/projects/blob/master/05-portable-starbook/)  
+  * [begin cleancalc 2.0](https://github.com/jankeLearning/projects/tree/master/cleancalc-2-point-0)  
   
