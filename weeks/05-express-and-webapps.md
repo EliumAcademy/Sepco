@@ -26,17 +26,9 @@
   * **Thursday**  
     * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
       
-**Codes to study alone**   
-  * [slow, progress express intro](https://github.com/jankeLearning/content-code/tree/master/Week%2005/recap-express-basics)  
-  * [simple express apps to debug](https://github.com/jankeLearning/content-code/tree/master/Week%2005/debug-these)  
-  * [simple ejs app](https://github.com/jankeLearning/content-code/tree/master/Week%2005)  
-  * [George explains express](https://github.com/jankeLearning/content-code/tree/master/Week%2005/george-explains-express)    
-  * [Tictactoe 3, 4](https://github.com/jankeLearning/projects/blob/master/tictactoes/)   
-  * [Some debugging examples and modules](https://github.com/jankeLearning/content-code/tree/master/Week%2005/demo-debugging)  
-
-**Codes to code review**  
-  * [beavers series](https://github.com/jankeLearning/content-code/tree/master/Week%2005/development-scheduling)  
-  * [calculators seris](https://github.com/jankeLearning/content-code/tree/master/Week%2005/study-series-express)  
+**Codes to study**   
+  * [weeks 5-6]()  
+ 
 
 **Projects**  
   * [Museum Static, fs](https://github.com/jankeLearning/projects/blob/master/05-museums/)    
