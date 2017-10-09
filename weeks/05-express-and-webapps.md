@@ -27,7 +27,7 @@
     * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
       
 **Codes to study**   
-  * [weeks 5-6]()  
+  * [weeks 5-6](https://github.com/jankeLearning/content-code/tree/master/Week%2005-6)  
  
 
 **Projects**  
