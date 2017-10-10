@@ -14,7 +14,7 @@
   * [Mongoose-2](https://github.com/jankeLearning/content-md/blob/master/databases/06-mongoose-2.md) 
 
 **Wednesday** 
-  * [Jasmine]()  
+  * [Jasmine](https://github.com/jankeLearning/content-md/blob/master/tools/06-jasmine.md)  
 
 **Thursday**  
   * [Session](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/06-sessions.md)  

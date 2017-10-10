@@ -11,15 +11,14 @@
   * [Cyber Security-101](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-cyber-security-101.md)
 
 **Tuesday**  
-  * [Services](https://github.com/jankeLearning/content-md/blob/master/app-design/07-services.md)  
   * [Npm Modules/07-passport-local.md](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-local.md)
 
 **Wednesday**  
   * [Deployment-2](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-deployment-2.md)  
-  * [FP-2](https://github.com/jankeLearning/content-md/blob/master/js/07-FP-2.md)
 
 **Thursday**  
   * [Passport Jwt](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-jwt.md)  
+  * [Services](https://github.com/jankeLearning/content-md/blob/master/app-design/07-services.md)  
   
 **Projects**  
   * Authenticated App  
