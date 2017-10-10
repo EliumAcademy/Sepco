@@ -9,8 +9,7 @@
   * **Monday**  
     * [The Internet](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-the-internet.md)  
     * [Node-3](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-node-3.md)  
-    * [Express Overview](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-express-overview.md)  
-    * [Deployment-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-deployment-1.md)  
+    * [Express Overview](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-express-overview.md) 
     * [Morgen](https://github.com/jankeLearning/content-md/blob/master/npm-modules/05-morgan.md)  
     * [Env-Vars](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-env-vars.md) 
       
@@ -24,7 +23,11 @@
     * [Navigating Codebase](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-navigating-codebase.md)
 
   * **Thursday**  
-    * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)  
+    * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)   
+    * [Deployment-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-deployment-1.md)  
+
+  * **Friday**  
+    * Collaborative Development  
       
 **Codes to study**   
   * [weeks 5-6](https://github.com/jankeLearning/content-code/tree/master/Week%2005-6)  

@@ -20,7 +20,6 @@
   * [Session](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/06-sessions.md)  
   
 **Projects**  
-  * [inside express](https://github.com/jankeLearning/projects/tree/master/06-inside-express) 
   * RESTFUL app of your choice  
     * Full Architecture  
     * M-M Data  

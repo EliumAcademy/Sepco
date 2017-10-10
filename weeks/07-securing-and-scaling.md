@@ -20,7 +20,6 @@
 
 **Thursday**  
   * [Passport Jwt](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-jwt.md)  
-  * Some ES6 Tricks  
   
 **Projects**  
   * Authenticated App  

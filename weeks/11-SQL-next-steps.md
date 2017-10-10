@@ -15,6 +15,9 @@
   * [SQL Relational-2](https://github.com/jankeLearning/content-md/blob/master/databases/11-SQL-relational-2.md)
 
 **Wednesday**  
+  * [Complexity is Counting](https://github.com/jankeLearning/content-md/blob/master/algorithms/08-complexity-is-counting.md)
+  * other algorithm/datastructure stuff
+  
 **Thursday**  
   
 **Projects**  
