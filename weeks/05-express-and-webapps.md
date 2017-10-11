@@ -25,9 +25,6 @@
   * **Thursday**  
     * [Debugging Node+express](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/05-debugging-node%2Bexpress.md)   
     * [Deployment-1](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/05-deployment-1.md)  
-
-  * **Friday**  
-    * Collaborative Development  
       
 **Codes to study**   
   * [weeks 5-6](https://github.com/jankeLearning/content-code/tree/master/Week%2005-6)  

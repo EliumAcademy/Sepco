@@ -3,8 +3,6 @@
 **Topics**  
   * Async JS  
   * Api's  
-  * Algorithms  
-  * loopback  
   
  
 **Monday**  
