@@ -15,10 +15,10 @@
   * [Fetch](https://github.com/jankeLearning/content-md/blob/master/tools/08-fetch.md)
 
 **Wednesday** 
-  * [Api Testing](https://github.com/jankeLearning/content-md/blob/master/testing/08-api-testing.md)  
+  * [Prepare for next week](https://github.com/jankeLearning/projects/blob/master/09-collaboration-week/0-friday-before.md)
 
 **Thursday**  
-  * [Prepare for next week](https://github.com/jankeLearning/projects/blob/master/09-collaboration-week/0-friday-before.md)
+  * Nothing new, finishing time
   
 **Projects**  
   * Cleancalc 5  
