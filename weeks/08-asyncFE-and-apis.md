@@ -8,6 +8,7 @@
 **Monday**  
   * [APIs](https://github.com/TheOdinProject/javascript_curriculum/blob/master/MoreJS/APIs.md)  
   * [Async Frontend](https://github.com/jankeLearning/content-md/blob/master/app-design/08-async-frontend.md)
+  * [Micro-services](https://github.com/jankeLearning/content-md/blob/master/app-design/07-services.md) 
 
 **Tuesday**  
   * [Async-3](https://github.com/jankeLearning/content-md/blob/master/js/08-ascync-3.md)  
