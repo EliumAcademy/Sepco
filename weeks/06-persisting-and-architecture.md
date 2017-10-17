@@ -16,12 +16,14 @@
 
   * **Wednesday** 
     * [Jasmine](https://github.com/jankeLearning/content-md/blob/master/tools/06-jasmine.md)  
+    * Deployment codealong
 
   * **Thursday**  
     * [Session](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/06-sessions.md)  
+    * Project planning codealong
 
   * **Friday**  
-    * Collaborative Development  
+    * Collaborative Development workshop
   
 **Projects**  
   * RESTFUL app of your choice  
