@@ -20,7 +20,7 @@
 
   * **Thursday**  
     * [Session](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/06-sessions.md)  
-    * Project planning codealong
+    * [collaborative process](https://github.com/jankeLearning/projects/blob/master/10-collaboration-week/the-process.md)  
 
   * **Friday**  
     * Collaborative Development workshop
