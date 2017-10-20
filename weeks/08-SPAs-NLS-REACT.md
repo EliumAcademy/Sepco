@@ -4,7 +4,24 @@
   * Async JS  
   * Api's  
   
- 
+*  **Monday**  
+  * REACT 1  
+  
+* **Tuesday**  
+  *  
+
+* **Wednesday**  
+  * REACT 2   
+
+* **Thursday**  
+  *   
+
+  
+**Projects**  
+  * Cleancalc 5  
+  * Tictactoe 5  
+  * App of Your Choice  
+
 **Monday**  
   * [APIs](https://github.com/TheOdinProject/javascript_curriculum/blob/master/MoreJS/APIs.md)  
   * [Async Frontend](https://github.com/jankeLearning/content-md/blob/master/app-design/08-async-frontend.md)
@@ -20,8 +37,3 @@
 
 **Thursday**  
   * Nothing new, finishing time
-  
-**Projects**  
-  * Cleancalc 5  
-  * Tictactoe 5  
-  * App of Your Choice  

@@ -6,6 +6,33 @@
   * read the lecture titles  
   * functional programming
 
+*  **Monday**  
+  *   
+  
+* **Tuesday**  
+  * REACT 3  
+
+* **Wednesday**  
+  *     
+
+* **Thursday**  
+  * REACT 4   
+
+
+**Projects**
+  * Continue Personal Project
+  * Continue Group Project
+  * Adv Project - need to design it  
+    * Lodash  
+    * ES6 features  
+    * Immutable data  
+    * .prototype or classes  
+    * Your backend or public api  
+    * Local modules  
+    * **Just a toy to use these things**
+
+
+
 **Monday**  
   * [ES6](https://github.com/jankeLearning/content-md/blob/master/js/09-es6.md)  
   * [Local Moduling](https://github.com/jankeLearning/content-md/blob/master/npm-modules/09-local-moduling.md)  
@@ -25,18 +52,4 @@
 **Thursday**  
   * [Oepensource Contributing](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-opensource-contributing.md)  
   * [FP-3](https://github.com/jankeLearning/content-md/blob/master/js/09-FP-3.md)  
-
-**Projects**
-  * Continue Personal Project
-  * Continue Group Project
-  * Adv Project - need to design it  
-    * Lodash  
-    * ES6 features  
-    * Immutable data  
-    * .prototype or classes  
-    * Your backend or public api  
-    * Local modules  
-    * **Just a toy to use these things**
-
-
 
