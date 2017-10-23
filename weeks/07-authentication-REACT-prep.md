@@ -13,6 +13,7 @@
   
 * **Tuesday**  
   * [Passort Local](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-local.md)  
+  * collaboration 1.2: constraints and planning  
   
   
 * **Wednesday**  
