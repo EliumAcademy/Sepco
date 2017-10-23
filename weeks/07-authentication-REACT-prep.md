@@ -3,7 +3,8 @@
 **Topics**  
   * Cyber-security  
   * Authentication  
-  * Secure deployment  
+  * Better architecture  
+  * REACT prep  
   
 
 * **Monday** 
