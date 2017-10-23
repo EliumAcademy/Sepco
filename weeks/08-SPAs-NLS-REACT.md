@@ -19,9 +19,7 @@
 
   
 **Projects**  
-  * Cleancalc 5  
-  * Tictactoe 5  
-  * App of Your Choice  
+  * your own project  
 
 **Monday**  
 

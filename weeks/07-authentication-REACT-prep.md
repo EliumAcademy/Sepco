@@ -27,10 +27,8 @@
   * [REACT vs]()  
   
 * **Projects**  
-  * Authenticated App  
-    * Services Architecture  
-    * Full Repo  
-    * Full Frontend  
+  * your own project  
+  * study tictactoes 4-8  
 
 * **REACT prep**  (in progress)
   * [Async-3](https://github.com/jankeLearning/content-md/blob/master/js/08-ascync-3.md)  
