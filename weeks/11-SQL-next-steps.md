@@ -17,6 +17,7 @@
 **Wednesday**  
   * [Complexity is Counting](https://github.com/jankeLearning/content-md/blob/master/algorithms/08-complexity-is-counting.md)
   * other algorithm/datastructure stuff
+  * [Design Patterns](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-design-patterns.md)  
   
 **Thursday**  
   

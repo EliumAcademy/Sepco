@@ -28,6 +28,7 @@ All lectures in no order, to be sorted:
   * [Deployment-2](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-deployment-2.md)  
 
   * [Auto-Generate Documentation](https://github.com/jankeLearning/content-md/blob/master/tools/09-doc-generators.md)  
+  * [Oepensource Contributing](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/09-opensource-contributing.md)  
 
 **Monday**  
 
