@@ -9,7 +9,7 @@
 
 * **Monday** 
   * [Session](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/06-sessions.md)  
-  * [Auth Sessions](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/07-auth-sessions.md)    
+  * [Auth Sessions](https://github.com/jankeLearning/content-code/tree/master/Week%2005-6/2-sessions-intro)    
   * [Cyber Security-101](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-cyber-security-101.md)  
   * codealong: microservices, res.locals, manual authentication  
   
