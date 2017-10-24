@@ -8,7 +8,8 @@
   * REACT 1   
   
 * **Tuesday**  
-  *  Project planning lesson
+  *  Project planning lesson   
+  *  Begin one-on-one project planning  
 
 * **Wednesday**  
   * REACT 2   
