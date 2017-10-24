@@ -25,7 +25,11 @@
   
 * **Thursday**  
   * [REACT?](https://github.com/jankeLearning/content-md/blob/master/REACT/react-vs.md)  
-  * [Bart's assignmnet](https://github.com/jankeLearning/content-md/blob/master/REACT/Bart-assignment.md)
+  * [Bart's assignmnet](https://github.com/jankeLearning/content-md/blob/master/REACT/Bart-assignment.md)  
+  * Individual meetings to plan final project  
+
+* **Friday**  
+  * Individual meetings to plan final project  
   
 **Projects**  
   * your own projects   
