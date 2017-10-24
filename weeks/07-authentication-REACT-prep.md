@@ -27,13 +27,13 @@
 * **Thursday**  
   * [REACT vs]()  
   
-* **Projects**  
+**Projects**  
   * your own project  
   * study tictactoes 4-8  
   * prepare for react
 
 
-* **REACT prep**  
+**REACT prep**  
   * [Axios](https://github.com/jankeLearning/content-md/blob/master/npm-modules/08-axios.md)  
   * [Fetch](https://github.com/jankeLearning/content-md/blob/master/tools/08-fetch.md)
   * [APIs](https://github.com/TheOdinProject/javascript_curriculum/blob/master/MoreJS/APIs.md)  
