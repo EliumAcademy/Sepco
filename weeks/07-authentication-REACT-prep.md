@@ -16,29 +16,28 @@
 * **Tuesday**  
   * [Passort Local](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-local.md)  
   * [collaboration 1.2: constraints and planning](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-constraints.md)  
+  * [finish pure js auth codealong](https://github.com/jankeLearning/content-code/tree/master/Week%2007/passportless-authentication)
   
   
 * **Wednesday**  
   * [Passport Jwt](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-jwt.md)   
   * [SPAs 101](https://github.com/jankeLearning/content-md/blob/master/app-design/09-SPAs-101.md) 
-  * [Async Frontend](https://github.com/jankeLearning/content-md/blob/master/app-design/08-async-frontend.md)  
-  * SPA/cors codealong
+  * [SPA/cors codealong](https://github.com/jankeLearning/projects/tree/master/tictactoes)  
   
 * **Thursday**  
-  * [about REACT]()  
   * [REACT vs]()  
   
 * **Projects**  
   * your own project  
   * study tictactoes 4-8  
+  * prepare for react
 
-* **REACT prep**  (in progress)
-  * [Async-3](https://github.com/jankeLearning/content-md/blob/master/js/08-ascync-3.md)  
+
+* **REACT prep**  
   * [Axios](https://github.com/jankeLearning/content-md/blob/master/npm-modules/08-axios.md)  
   * [Fetch](https://github.com/jankeLearning/content-md/blob/master/tools/08-fetch.md)
   * [APIs](https://github.com/TheOdinProject/javascript_curriculum/blob/master/MoreJS/APIs.md)  
   * [ES6](https://github.com/jankeLearning/content-md/blob/master/js/09-es6.md)  
   * [Immutable Data](https://github.com/jankeLearning/content-md/blob/master/app-design/09-immutable-data.md)  
   * [Lodash](https://github.com/jankeLearning/content-md/blob/master/npm-modules/09-lodash.md)  
-  * [MVVM](https://github.com/jankeLearning/content-md/blob/master/app-design/10-MVVM.md)
-  * [FP-3](https://github.com/jankeLearning/content-md/blob/master/js/09-FP-3.md)  
+  * [FP](https://github.com/jankeLearning/content-md/blob/master/js/06-FP-1.md)  
