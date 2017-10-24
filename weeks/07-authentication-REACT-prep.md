@@ -11,12 +11,12 @@
   * [Session](https://github.com/jankeLearning/content-md/blob/master/node%2Bexpress/06-sessions.md)  
   * [Auth Sessions](https://github.com/jankeLearning/content-code/tree/master/Week%2005-6/2-sessions-intro)    
   * [Cyber Security-101](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-cyber-security-101.md)  
-  * codealong: [microservices](https://github.com/jankeLearning/content-md/blob/master/app-design/07-services.md), res.locals, [manual authentication](https://github.com/jankeLearning/content-code/tree/master/Week%2007/auth-from-scratch-exercise)  
+  * codealong: [microservices](https://github.com/jankeLearning/content-md/blob/master/app-design/07-services.md), res.locals
+  * manual authentication: [prompt]](https://github.com/jankeLearning/content-code/tree/master/Week%2007/auth-from-scratch-exercise), [example](https://github.com/jankeLearning/content-code/tree/master/Week%2007/passportless-authentication)  
   
 * **Tuesday**  
   * [Passort Local](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-local.md)  
   * [collaboration 1.2: constraints and planning](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-constraints.md)  
-  * [finish pure js auth codealong](https://github.com/jankeLearning/content-code/tree/master/Week%2007/passportless-authentication)
   
   
 * **Wednesday**  
