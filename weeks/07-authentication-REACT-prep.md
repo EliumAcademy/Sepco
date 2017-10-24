@@ -24,8 +24,8 @@
   * [collaboration 1.2: constraints and planning](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-constraints.md)  
   
 * **Thursday**  
-  * [REACT vs]()  
-  * [Bart's assignmnet]()
+  * [REACT?](https://github.com/jankeLearning/content-md/blob/master/REACT/react-vs.md)  
+  * [Bart's assignmnet](https://github.com/jankeLearning/content-md/blob/master/REACT/Bart-assignment.md)
   
 **Projects**  
   * your own projects   
