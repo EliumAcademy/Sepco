@@ -20,8 +20,7 @@
   
   
 * **Wednesday**  
-  * [Passport Jwt](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-jwt.md)   
-  * [SPAs 101](https://github.com/jankeLearning/content-md/blob/master/app-design/09-SPAs-101.md) 
+  * [Passport Jwt](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-jwt.md) 
   * [SPA/cors codealong](https://github.com/jankeLearning/projects/tree/master/tictactoes)  
   
 * **Thursday**  

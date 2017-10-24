@@ -1,15 +1,14 @@
-<h4 class="weektheme">Week Theme: Async Frontends, Api Backends</h4>
+<h4 class="weektheme">Week Theme: REACT, Final Project</h4>
 
 **Topics**  
-  * Async JS  
-  * Api's  
+  * REACT
+  * Individual Projects
   
 *  **Monday**  
   * REACT 1   
-  * [JSX](https://github.com/jankeLearning/content-md/blob/master/js/10-jsx.md)
   
 * **Tuesday**  
-  *  
+  *  Project planning lesson
 
 * **Wednesday**  
   * REACT 2   

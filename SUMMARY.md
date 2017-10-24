@@ -8,7 +8,7 @@
 	* [w5 - Express, Webapps](weeks/05-express-and-webapps.md)
 	* [w6 - Persisting, Architecture](weeks/06-persisting-and-architecture.md)
 	* [w7 - Authentication, REACT prep](weeks/07-authentication-REACT-prep.md)
-	* [w8 - SPAs, REACT, NLS](weeks/08-SPAs-NLS-REACT.md)
+	* [w8 - REACT, project planning](weeks/08-SPAs-NLS-REACT.md)
 * [Part 3 - Projects, NLS](phases/ph3-advanced-paths.md)  
 	* [w9 - REACT, microservice backends](weeks/09-REACT-microservice-backends.md)
 	* [w10 - Group Projecting](weeks/10-group-projecting.md)
