@@ -20,7 +20,7 @@
   
 * **Wednesday**  
   * [Passport Jwt](https://github.com/jankeLearning/content-md/blob/master/npm-modules/07-passport-jwt.md) 
-  * [SPA/cors codealong](https://github.com/jankeLearning/projects/tree/master/tictactoes)  
+  * [SPA/cors codealong](https://github.com/jankeLearning/content-code/tree/master/codealong-react-prep)  
   * [collaboration 1.2: constraints and planning](https://github.com/jankeLearning/content-md/blob/master/dev-knowledge/07-constraints.md)  
   
 * **Thursday**  
