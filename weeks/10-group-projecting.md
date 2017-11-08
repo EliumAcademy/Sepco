@@ -7,13 +7,11 @@
   * TDD, BDD
   
 All lectures in no order, to be sorted:
-* juan there every day
 * scrum workshop
 * github projects
 * github issues, pull requests, gists
 * github wikis
 * docs hosting - list of options
-* TDD
 * BDD
 * jasmine
 * agile development
