@@ -20,8 +20,6 @@
   * REACT 4   
 
 * **Friday**  
-  * [Prepare for next week](https://github.com/jankeLearning/projects/blob/master/09-collaboration-week/0-friday-before.md)
-  * plan for last two weeks
 
 
 **Projects**
